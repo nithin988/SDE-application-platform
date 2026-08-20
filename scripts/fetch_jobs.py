@@ -44,6 +44,19 @@ LEVEL_EXCLUDE = re.compile(
 # "(3-5 Years)" or "5+ Years" - a real 1 YOE candidate doesn't clear these.
 YEARS_EXCLUDE = re.compile(r"(\d+)\s*(?:-\s*\d+\s*)?\+?\s*years?", re.IGNORECASE)
 
+# For Amazon specifically: a plain "SDE" or "Software Development Engineer"
+# title does NOT reliably mean entry level - e.g. "SDE, Alexa For Shopping"
+# asks for 3+ years while "Software Development Engineer I, FinOps FP&A"
+# asks for 1+. Amazon's own basic_qualifications text is the real signal.
+YEARS_IN_TEXT = re.compile(r"(\d+)\+?\s*(?:-\s*\d+\s*)?\s*years?", re.IGNORECASE)
+
+
+def min_years_required(text: str):
+    if not text:
+        return None
+    years = [int(m.group(1)) for m in YEARS_IN_TEXT.finditer(text)]
+    return min(years) if years else None
+
 
 def title_requires_too_much_experience(title: str) -> bool:
     for m in YEARS_EXCLUDE.finditer(title):
@@ -203,36 +216,54 @@ def fetch_smartrecruiters(cfg):
 
 
 def fetch_amazon(cfg):
+    # A plain "SDE" / "Software Development Engineer" title at Amazon does
+    # NOT reliably mean entry level - e.g. "SDE, Alexa For Shopping" asks
+    # for 3+ years while "Software Development Engineer I, FinOps FP&A"
+    # asks for 1+. So beyond querying both the software and systems tracks,
+    # every candidate is gated on its actual basic_qualifications text.
+    queries = [
+        "software+development+engineer",
+        "systems+development+engineer",
+    ]
+    seen_ids = set()
     out = []
-    offset = 0
-    page_size = 100
-    max_pages = 10
-    for _ in range(max_pages):
-        url = (
-            "https://www.amazon.jobs/en/search.json"
-            f"?base_query=software+development+engineer&loc_query=India"
-            f"&offset={offset}&result_limit={page_size}"
-        )
-        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-        r.raise_for_status()
-        data = r.json()
-        jobs = data.get("jobs", [])
-        if not jobs:
-            break
-        for j in jobs:
-            city = j.get("city", "")
-            country = j.get("country_code", "")
-            out.append(
-                {
-                    "raw_id": str(j.get("id_icims") or j.get("job_path", "")),
-                    "title": j.get("title", ""),
-                    "location": f"{city}, {country}",
-                    "url": "https://www.amazon.jobs" + j.get("job_path", ""),
-                }
+    for base_query in queries:
+        offset = 0
+        page_size = 100
+        max_pages = 10
+        for _ in range(max_pages):
+            url = (
+                "https://www.amazon.jobs/en/search.json"
+                f"?base_query={base_query}&loc_query=India"
+                f"&offset={offset}&result_limit={page_size}"
             )
-        offset += page_size
-        if offset >= data.get("hits", 0):
-            break
+            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            data = r.json()
+            jobs = data.get("jobs", [])
+            if not jobs:
+                break
+            for j in jobs:
+                raw_id = str(j.get("id_icims") or j.get("job_path", ""))
+                if raw_id in seen_ids:
+                    continue
+                min_years = min_years_required(j.get("basic_qualifications", ""))
+                if min_years is not None and min_years > 1:
+                    continue
+                seen_ids.add(raw_id)
+                city = j.get("city", "")
+                country = j.get("country_code", "")
+                out.append(
+                    {
+                        "raw_id": raw_id,
+                        "title": j.get("title", ""),
+                        "location": f"{city}, {country}",
+                        "url": "https://www.amazon.jobs" + j.get("job_path", ""),
+                    }
+                )
+            offset += page_size
+            if offset >= data.get("hits", 0):
+                break
     return out
 
 

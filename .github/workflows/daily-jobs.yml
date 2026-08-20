@@ -2,8 +2,8 @@ name: Daily job scan
 
 on:
   schedule:
-    # 03:00 UTC = 08:30 IST, every day
-    - cron: "0 3 * * *"
+    # 04:00 UTC = 09:30 IST, every day
+    - cron: "0 4 * * *"
   workflow_dispatch: {}
 
 permissions:

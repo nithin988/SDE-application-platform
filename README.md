@@ -11,15 +11,22 @@ pages use, filtered and deduped for you.
 1. `scripts/fetch_jobs.py` hits each configured company's public jobs API,
    keeps only postings whose **title** looks like an entry-level SDE/SWE role
    (excludes Senior/Staff/Lead/Manager/SDE-II+/Intern) and whose **location**
-   mentions Hyderabad, Bengaluru, or India.
+   mentions Hyderabad, Bengaluru, or India. For Amazon specifically, title
+   alone isn't reliable — a plain "SDE" posting there can ask for 3+ years
+   just as often as 1+ — so the Amazon fetcher additionally reads the
+   posting's own `basic_qualifications` text and drops anything that states
+   more than 1 year of required experience, regardless of what the title says.
 2. It compares against `data/seen.json` (a memory of every job ID it has
    ever matched) so each run tags brand-new postings with `is_new: true`.
 3. It writes the result to `docs/data/jobs.json`.
 4. `docs/index.html` is a static dashboard that reads that JSON and lets you
    search/filter and click straight through to the real "Apply" page.
 5. A GitHub Actions workflow (`.github/workflows/daily-jobs.yml`) runs step 1
-   every day at 08:30 IST and commits the updated JSON back to the repo —
+   every day at 09:30 IST and commits the updated JSON back to the repo —
    which GitHub Pages then serves automatically. No server to maintain.
+   (GitHub's scheduled cron is best-effort, not to-the-second — during
+   high load on their shared runners it can fire up to 10-20 minutes late;
+   that's normal and not a sign anything is broken.)
 
 **This runs on GitHub's servers, not your laptop.** Once deployed (see
 below), the whole pipeline — fetch, filter, dedupe, publish — executes
