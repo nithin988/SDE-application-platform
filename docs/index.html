@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SDE Job Radar</title>
+<style>
+  :root{
+    --bg:#0b0f14; --card:#131a22; --border:#223041; --text:#e6edf3;
+    --muted:#8b98a5; --accent:#3fb950; --accent2:#58a6ff; --new:#f0883e;
+  }
+  @media (prefers-color-scheme: light){
+    :root{ --bg:#f6f8fa; --card:#ffffff; --border:#d0d7de; --text:#1f2328;
+           --muted:#57606a; --accent:#1a7f37; --accent2:#0969da; --new:#bc4c00; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,Segoe UI,Roboto,sans-serif}
+  header{padding:24px 20px 12px;max-width:960px;margin:0 auto}
+  h1{margin:0 0 4px;font-size:22px}
+  .sub{color:var(--muted);font-size:13px}
+  .controls{display:flex;gap:8px;flex-wrap:wrap;max-width:960px;margin:16px auto 0;padding:0 20px}
+  input,select{background:var(--card);border:1px solid var(--border);color:var(--text);
+    padding:8px 10px;border-radius:6px;font-size:14px}
+  input{flex:1;min-width:180px}
+  .stats{display:flex;gap:16px;max-width:960px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--muted)}
+  .stats b{color:var(--text)}
+  main{max-width:960px;margin:16px auto 60px;padding:0 20px}
+  .job{background:var(--card);border:1px solid var(--border);border-radius:8px;
+    padding:14px 16px;margin-bottom:10px;display:flex;justify-content:space-between;gap:12px;align-items:center}
+  .job-main{min-width:0}
+  .job-title{font-weight:600;font-size:15px;margin:0 0 4px;overflow-wrap:break-word}
+  .job-meta{font-size:13px;color:var(--muted)}
+  .badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:10px;
+    margin-left:8px;vertical-align:middle}
+  .badge-new{background:var(--new);color:#111}
+  .apply{flex-shrink:0;background:var(--accent2);color:#fff;text-decoration:none;
+    font-size:13px;font-weight:600;padding:8px 14px;border-radius:6px;white-space:nowrap}
+  .apply:hover{opacity:.85}
+  .empty{color:var(--muted);text-align:center;padding:40px 0}
+  footer{max-width:960px;margin:0 auto 30px;padding:0 20px;color:var(--muted);font-size:12px}
+  a{color:var(--accent2)}
+</style>
+</head>
+<body>
+<header>
+  <h1>SDE Job Radar</h1>
+  <div class="sub">Entry-level SDE / SWE openings in Hyderabad, Bengaluru &amp; India, pulled daily from company career APIs.</div>
+</header>
+
+<div class="controls">
+  <input id="search" type="text" placeholder="Search title or company...">
+  <select id="companyFilter"><option value="">All companies</option></select>
+  <select id="newFilter">
+    <option value="">All jobs</option>
+    <option value="new">New today only</option>
+  </select>
+</div>
+
+<div class="stats" id="stats">Loading...</div>
+
+<main id="jobs"></main>
+
+<footer id="footer"></footer>
+
+<script>
+async function load() {
+  const res = await fetch('data/jobs.json', {cache: 'no-store'});
+  const data = await res.json();
+  window.__data = data;
+  renderControls(data);
+  render(data);
+}
+
+function renderControls(data) {
+  const companies = [...new Set(data.jobs.map(j => j.company))].sort();
+  const sel = document.getElementById('companyFilter');
+  companies.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c; opt.textContent = c;
+    sel.appendChild(opt);
+  });
+  document.getElementById('search').addEventListener('input', () => render(data));
+  document.getElementById('companyFilter').addEventListener('change', () => render(data));
+  document.getElementById('newFilter').addEventListener('change', () => render(data));
+}
+
+function render(data) {
+  const q = document.getElementById('search').value.toLowerCase();
+  const co = document.getElementById('companyFilter').value;
+  const newOnly = document.getElementById('newFilter').value === 'new';
+
+  const filtered = data.jobs.filter(j => {
+    if (co && j.company !== co) return false;
+    if (newOnly && !j.is_new) return false;
+    if (q && !(j.title.toLowerCase().includes(q) || j.company.toLowerCase().includes(q))) return false;
+    return true;
+  });
+
+  document.getElementById('stats').innerHTML =
+    `<span><b>${data.total}</b> open matches</span>` +
+    `<span><b>${data.new_today}</b> new today</span>` +
+    `<span>Showing <b>${filtered.length}</b></span>`;
+
+  const container = document.getElementById('jobs');
+  container.innerHTML = '';
+  if (!filtered.length) {
+    container.innerHTML = '<div class="empty">No jobs match your filters.</div>';
+  }
+  for (const j of filtered) {
+    const el = document.createElement('div');
+    el.className = 'job';
+    el.innerHTML = `
+      <div class="job-main">
+        <div class="job-title">${escapeHtml(j.title)}${j.is_new ? '<span class="badge badge-new">NEW</span>' : ''}</div>
+        <div class="job-meta">${escapeHtml(j.company)} · ${escapeHtml(j.location)} · first seen ${j.first_seen}</div>
+      </div>
+      <a class="apply" href="${j.url}" target="_blank" rel="noopener">Apply →</a>
+    `;
+    container.appendChild(el);
+  }
+
+  const gen = new Date(data.generated_at);
+  let footerHtml = `Last updated: ${gen.toLocaleString()} · Updates daily via GitHub Actions.`;
+  if (data.errors && data.errors.length) {
+    footerHtml += `<br>Fetch warnings: ${data.errors.map(escapeHtml).join('; ')}`;
+  }
+  document.getElementById('footer').innerHTML = footerHtml;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+load().catch(err => {
+  document.getElementById('stats').textContent = 'Failed to load job data.';
+  console.error(err);
+});
+</script>
+</body>
+</html>

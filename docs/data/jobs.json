@@ -1,0 +1,701 @@
+{
+  "generated_at": "2026-08-20T09:20:09.262979+00:00",
+  "total": 77,
+  "new_today": 77,
+  "errors": [],
+  "jobs": [
+    {
+      "id": "Amazon::10452931",
+      "company": "Amazon",
+      "title": "Amazon Fulfilment Tech - Software Development Engineer, AFT Inventory",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10452931/amazon-fulfilment-tech-software-development-engineer-aft-inventory",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::3187761",
+      "company": "Amazon",
+      "title": "Software Development Engineer",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/3187761/software-development-engineer",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10454374",
+      "company": "Amazon",
+      "title": "Software Development Engineer",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10454374/software-development-engineer",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10452413",
+      "company": "Amazon",
+      "title": "Software Development Engineer",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10452413/software-development-engineer",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10503778",
+      "company": "Amazon",
+      "title": "Software Development Engineer ",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10503778/software-development-engineer",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10491646",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Amazon Lending",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10491646/software-development-engineer-amazon-lending",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10496147",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10496147/software-development-engineer-concessions-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10480520",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10480520/software-development-engineer-concessions-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10496152",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10496152/software-development-engineer-concessions-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10489776",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10489776/software-development-engineer-concessions-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10498616",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10498616/software-development-engineer-concessions-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10498614",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10498614/software-development-engineer-concessions-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10496146",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10496146/software-development-engineer-concessions-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10496589",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Ordering",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10496589/software-development-engineer-ordering",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10496609",
+      "company": "Amazon",
+      "title": "Software Development Engineer - Prime Video Linear, Prime Video",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10496609/software-development-engineer-prime-video-linear-prime-video",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10496608",
+      "company": "Amazon",
+      "title": "Software Development Engineer - Prime Video Linear, Prime Video",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10496608/software-development-engineer-prime-video-linear-prime-video",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10432823",
+      "company": "Amazon",
+      "title": "Software Development Engineer I, FinOps FP&A",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10405518",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Alexa Customers & Technology",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10405518/software-development-engineer-alexa-customers-technology",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10462375",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Alexa Customers & Technology",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10462375/software-development-engineer-alexa-customers-technology",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10462377",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Alexa Customers & Technology",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10462377/software-development-engineer-alexa-customers-technology",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10480080",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10480080/software-development-engineer-amazon",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10494641",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10494641/software-development-engineer-amazon",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10478978",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Business Marketing Technologies",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10478978/software-development-engineer-amazon-business-marketing-technologies",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10463026",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Device Observability & Troubleshooting Team",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10463026/software-development-engineer-amazon-device-observability-troubleshooting-team",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10370894",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Devices",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10370894/software-development-engineer-amazon-devices",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10478321",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Finance Technology ",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10478321/software-development-engineer-amazon-finance-technology",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10499858",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Fulfilment Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10499858/software-development-engineer-amazon-fulfilment-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10499857",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Fulfilment Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10499857/software-development-engineer-amazon-fulfilment-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10467200",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Prime",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10467200/software-development-engineer-amazon-prime",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10467060",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Prime",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10467060/software-development-engineer-amazon-prime",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10427781",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Time & Pay Innovation",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10427781/software-development-engineer-amazon-time-pay-innovation",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10482556",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Traffic Engineering",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10482556/software-development-engineer-amazon-traffic-engineering",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10443883",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Traffic Engineering",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10443883/software-development-engineer-amazon-traffic-engineering",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10466672",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Aurora MySQL",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10466672/software-development-engineer-aurora-mysql",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10381000",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Buyer Safety Experience",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10375504",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Buyer Safety Experience",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10375504/software-development-engineer-buyer-safety-experience",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10427943",
+      "company": "Amazon",
+      "title": "Software Development Engineer, CAM",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10427943/software-development-engineer-cam",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10491966",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Customer Experience and Business Trends",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10491966/software-development-engineer-customer-experience-and-business-trends",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10454395",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Emerging Devices Software",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10454395/software-development-engineer-emerging-devices-software",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10502106",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Everyday Essentials Experiences",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10502106/software-development-engineer-everyday-essentials-experiences",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10499305",
+      "company": "Amazon",
+      "title": "Software Development Engineer, FBA",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10499305/software-development-engineer-fba",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10486982",
+      "company": "Amazon",
+      "title": "Software Development Engineer, FBA",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10486982/software-development-engineer-fba",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10435882",
+      "company": "Amazon",
+      "title": "Software Development Engineer, FTV Frameworks and Performance",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10435882/software-development-engineer-ftv-frameworks-and-performance",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10439823",
+      "company": "Amazon",
+      "title": "Software Development Engineer, FinTech - TFAW",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10439823/software-development-engineer-fintech-tfaw",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10491197",
+      "company": "Amazon",
+      "title": "Software Development Engineer, FinTech General Ledger",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10491197/software-development-engineer-fintech-general-ledger",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10491198",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Fixed Asset Automation (FAA)",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10491198/software-development-engineer-fixed-asset-automation-faa",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10426843",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Fixed Asset Automation (FAA)",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10426843/software-development-engineer-fixed-asset-automation-faa",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10501199",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Fixed Asset Automation (FAA)",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10501199/software-development-engineer-fixed-asset-automation-faa",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10479653",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Fulfillment by Amazon, FBA",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10479653/software-development-engineer-fulfillment-by-amazon-fba",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10463507",
+      "company": "Amazon",
+      "title": "Software Development Engineer, ISS",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10463507/software-development-engineer-iss",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10423408",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Inbound & Inventory Management Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10423408/software-development-engineer-inbound-inventory-management-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10450232",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Int'l TechnologyEURegionalfund",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10450232/software-development-engineer-int-l-technologyeuregionalfund",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10435272",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Inventory Authority Platform (IAP) ",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10435272/software-development-engineer-inventory-authority-platform-iap",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10435267",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Inventory Authority Platform (IAP) ",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10435267/software-development-engineer-inventory-authority-platform-iap",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::3114883",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Last Mile Planning",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/3114883/software-development-engineer-last-mile-planning",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10468614",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Payroll Tax & Accounting Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10468614/software-development-engineer-payroll-tax-accounting-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10468622",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Payroll Tax & Accounting Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10468622/software-development-engineer-payroll-tax-accounting-tech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10441175",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Prime Video - Linear Experience",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10441175/software-development-engineer-prime-video-linear-experience",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10470167",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Prime Video Sports",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10470167/software-development-engineer-prime-video-sports",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10372731",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Prime Video Sports",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10372731/software-development-engineer-prime-video-sports",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10465551",
+      "company": "Amazon",
+      "title": "Software Development Engineer, RBS",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10465551/software-development-engineer-rbs",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10375342",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Sidewalk Cloud, Sidewalk Cloud",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10375342/software-development-engineer-sidewalk-cloud-sidewalk-cloud",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10478694",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Tax Engine Services ",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10478694/software-development-engineer-tax-engine-services",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10463974",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Trust CX Innovations&AI Policy",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10463974/software-development-engineer-trust-cx-innovations-ai-policy",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10388124",
+      "company": "Amazon",
+      "title": "Software Development Engineer, WW Prime Tech - Core Services",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10388124/software-development-engineer-ww-prime-tech-core-services",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10489022",
+      "company": "Amazon",
+      "title": "Software Development Engineer, WWOSTech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10489022/software-development-engineer-wwostech",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Amazon::10448634",
+      "company": "Amazon",
+      "title": "Software development Engineer",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10448634/software-development-engineer",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Coinbase::7558051",
+      "company": "Coinbase",
+      "title": "Software Engineer, EAA Integrations",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "GitLab::8695515002",
+      "company": "GitLab",
+      "title": "Backend Engineer, Geo Team",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Mastercard::/job/Pune-India/Software-Engineer-I_R-282195",
+      "company": "Mastercard",
+      "title": "Software Engineer I",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-282195",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Nvidia::/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
+      "company": "Nvidia",
+      "title": "Software Engineer, Production Engineering",
+      "location": "India, Bengaluru",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Okta::7984479",
+      "company": "Okta",
+      "title": "Software Engineer-Full Stack",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7984479?gh_jid=7984479",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "PhonePe::7772955003",
+      "company": "PhonePe",
+      "title": "Software Engineer - SRE (Rust)",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/phonepe/jobs/7772955003",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "PhonePe::7799494003",
+      "company": "PhonePe",
+      "title": "Software Engineer, Android",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/phonepe/jobs/7799494003",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Rubrik::8121053",
+      "company": "Rubrik",
+      "title": "Software Engineer - Cloud Native Protection",
+      "location": "Bangalore ",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Stripe::7543868",
+      "company": "Stripe",
+      "title": "Software Engineer, Internal Systems",
+      "location": "Bengaluru, India",
+      "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    },
+    {
+      "id": "Zscaler::5190485007",
+      "company": "Zscaler",
+      "title": "Information Systems Engineer",
+      "location": "Bangalore, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5190485007",
+      "first_seen": "2026-08-20",
+      "is_new": true
+    }
+  ]
+}
