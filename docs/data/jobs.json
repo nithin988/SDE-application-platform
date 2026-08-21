@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-08-20T14:11:35.906409+00:00",
+  "generated_at": "2026-08-21T04:29:22.981168+00:00",
   "total": 23,
-  "new_today": 23,
+  "new_today": 1,
   "errors": [],
   "jobs": [
+    {
+      "id": "Okta::7919336",
+      "company": "Okta",
+      "title": "Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
+      "first_seen": "2026-08-21",
+      "is_new": true
+    },
     {
       "id": "Amazon::10402175",
       "company": "Amazon",
@@ -11,7 +20,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10402175/network-systems-development-engineer-corporate-network-automation-engineering",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10452413",
@@ -20,7 +29,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10452413/software-development-engineer",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10496147",
@@ -29,7 +38,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10496147/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10480520",
@@ -38,7 +47,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10480520/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10496152",
@@ -47,7 +56,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10496152/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10489776",
@@ -56,7 +65,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10489776/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10498616",
@@ -65,7 +74,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10498616/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10498614",
@@ -74,7 +83,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10498614/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10496146",
@@ -83,7 +92,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10496146/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10432823",
@@ -92,7 +101,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10448634",
@@ -101,7 +110,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10448634/software-development-engineer",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10477442",
@@ -110,7 +119,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10477442/systems-development-engineer-i",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Amazon::10425388",
@@ -119,7 +128,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10425388/systems-development-engineer-selling-partner-solutions-storefront",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Coinbase::7558051",
@@ -128,7 +137,7 @@
       "location": "Remote - India",
       "url": "https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "GitLab::8695515002",
@@ -137,7 +146,7 @@
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Mastercard::/job/Pune-India/Software-Engineer---1_R-288516",
@@ -146,16 +155,7 @@
       "location": "Pune, India",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516",
       "first_seen": "2026-08-20",
-      "is_new": true
-    },
-    {
-      "id": "Mastercard::/job/Pune-India/Software-Engineer-I_R-282195",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-282195",
-      "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Nvidia::/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
@@ -164,7 +164,7 @@
       "location": "India, Bengaluru",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "PhonePe::7772955003",
@@ -173,7 +173,7 @@
       "location": "Bangalore",
       "url": "https://job-boards.greenhouse.io/phonepe/jobs/7772955003",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "PhonePe::7799494003",
@@ -182,7 +182,7 @@
       "location": "Bangalore",
       "url": "https://job-boards.greenhouse.io/phonepe/jobs/7799494003",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Rubrik::8121053",
@@ -191,7 +191,7 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Stripe::7543868",
@@ -200,7 +200,7 @@
       "location": "Bengaluru, India",
       "url": "https://stripe.com/jobs/search?gh_jid=7543868",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Zscaler::5190485007",
@@ -209,7 +209,7 @@
       "location": "Bangalore, IND",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5190485007",
       "first_seen": "2026-08-20",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
