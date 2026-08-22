@@ -1,18 +1,9 @@
 {
-  "generated_at": "2026-08-21T04:29:22.981168+00:00",
-  "total": 23,
-  "new_today": 1,
+  "generated_at": "2026-08-22T04:23:15.559681+00:00",
+  "total": 20,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "Okta::7919336",
-      "company": "Okta",
-      "title": "Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
-      "first_seen": "2026-08-21",
-      "is_new": true
-    },
     {
       "id": "Amazon::10402175",
       "company": "Amazon",
@@ -28,24 +19,6 @@
       "title": "Software Development Engineer",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10452413/software-development-engineer",
-      "first_seen": "2026-08-20",
-      "is_new": false
-    },
-    {
-      "id": "Amazon::10496147",
-      "company": "Amazon",
-      "title": "Software Development Engineer , Concessions Tech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10496147/software-development-engineer-concessions-tech",
-      "first_seen": "2026-08-20",
-      "is_new": false
-    },
-    {
-      "id": "Amazon::10480520",
-      "company": "Amazon",
-      "title": "Software Development Engineer , Concessions Tech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10480520/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
       "is_new": false
     },
@@ -149,21 +122,21 @@
       "is_new": false
     },
     {
-      "id": "Mastercard::/job/Pune-India/Software-Engineer---1_R-288516",
-      "company": "Mastercard",
-      "title": "Software Engineer - 1",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516",
-      "first_seen": "2026-08-20",
-      "is_new": false
-    },
-    {
       "id": "Nvidia::/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
       "company": "Nvidia",
       "title": "Software Engineer, Production Engineering",
       "location": "India, Bengaluru",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
       "first_seen": "2026-08-20",
+      "is_new": false
+    },
+    {
+      "id": "Okta::7919336",
+      "company": "Okta",
+      "title": "Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
+      "first_seen": "2026-08-21",
       "is_new": false
     },
     {
