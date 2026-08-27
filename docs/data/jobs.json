@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-08-26T04:31:25.474805+00:00",
-  "total": 20,
-  "new_today": 0,
+  "generated_at": "2026-08-27T14:52:49.541852+00:00",
+  "total": 21,
+  "new_today": 2,
   "errors": [],
   "jobs": [
+    {
+      "id": "Salesforce::/job/India---Hyderabad/Software-Engineer-SMTS_JR338173",
+      "company": "Salesforce",
+      "title": "Software Engineer SMTS",
+      "location": "India - Hyderabad",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineer-SMTS_JR338173",
+      "first_seen": "2026-08-27",
+      "is_new": true
+    },
+    {
+      "id": "Zscaler::5219488007",
+      "company": "Zscaler",
+      "title": "Software Development Engineer",
+      "location": "Bangalore, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
+      "first_seen": "2026-08-27",
+      "is_new": true
+    },
     {
       "id": "Amazon::10402175",
       "company": "Amazon",
@@ -19,15 +37,6 @@
       "title": "Software Development Engineer",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10452413/software-development-engineer",
-      "first_seen": "2026-08-20",
-      "is_new": false
-    },
-    {
-      "id": "Amazon::10496152",
-      "company": "Amazon",
-      "title": "Software Development Engineer , Concessions Tech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10496152/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
       "is_new": false
     },
