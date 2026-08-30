@@ -1,21 +1,12 @@
 {
-  "generated_at": "2026-08-29T10:36:13.139564+00:00",
-  "total": 19,
-  "new_today": 1,
+  "generated_at": "2026-08-30T09:35:31.387309+00:00",
+  "total": 18,
+  "new_today": 0,
   "errors": [
     "PhonePe: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/phonepe/jobs?content=false",
     "Plaid: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/plaid?mode=json"
   ],
   "jobs": [
-    {
-      "id": "Coinbase::8165441",
-      "company": "Coinbase",
-      "title": "Software Engineer, Security Platform",
-      "location": "Remote - India",
-      "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
-      "first_seen": "2026-08-29",
-      "is_new": true
-    },
     {
       "id": "Amazon::10402175",
       "company": "Amazon",
@@ -31,15 +22,6 @@
       "title": "Software Development Engineer",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10452413/software-development-engineer",
-      "first_seen": "2026-08-20",
-      "is_new": false
-    },
-    {
-      "id": "Amazon::10489776",
-      "company": "Amazon",
-      "title": "Software Development Engineer , Concessions Tech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10489776/software-development-engineer-concessions-tech",
       "first_seen": "2026-08-20",
       "is_new": false
     },
@@ -113,6 +95,15 @@
       "location": "Remote - India",
       "url": "https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051",
       "first_seen": "2026-08-20",
+      "is_new": false
+    },
+    {
+      "id": "Coinbase::8165441",
+      "company": "Coinbase",
+      "title": "Software Engineer, Security Platform",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
+      "first_seen": "2026-08-29",
       "is_new": false
     },
     {
