@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T09:35:31.387309+00:00",
-  "total": 18,
+  "generated_at": "2026-08-31T10:16:56.755935+00:00",
+  "total": 17,
   "new_today": 0,
   "errors": [
     "PhonePe: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/phonepe/jobs?content=false",
@@ -158,15 +158,6 @@
       "location": "Bangalore, IND",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5190485007",
       "first_seen": "2026-08-20",
-      "is_new": false
-    },
-    {
-      "id": "Zscaler::5219488007",
-      "company": "Zscaler",
-      "title": "Software Development Engineer",
-      "location": "Bangalore, IND",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
-      "first_seen": "2026-08-27",
       "is_new": false
     }
   ]
