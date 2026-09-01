@@ -15,10 +15,10 @@
   }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,Segoe UI,Roboto,sans-serif}
-  .layout{max-width:1240px;margin:0 auto;padding:0 20px;display:grid;
-    grid-template-columns:240px minmax(0,1fr);gap:28px;align-items:start}
-  @media (max-width:820px){
-    .layout{grid-template-columns:1fr}
+  .layout{max-width:1440px;margin:0 auto;padding:0 20px;display:grid;
+    grid-template-columns:320px minmax(0,1fr);gap:28px;align-items:start}
+  @media (max-width:960px){
+    .layout{grid-template-columns:1fr;max-width:720px}
     .sidebar{order:2}
     .content{order:1}
   }
@@ -32,17 +32,21 @@
   .stats{display:flex;gap:16px;flex-wrap:wrap;margin:14px 0 0;font-size:13px;color:var(--muted)}
   .stats b{color:var(--text)}
   main{margin:16px 0 60px}
-  .sidebar{position:sticky;top:20px;padding:24px 0}
+  .sidebar{position:sticky;top:20px;padding:24px 0;width:100%}
   .side-card{background:var(--card);border:1px solid var(--border);border-radius:8px;
-    padding:14px 16px;margin-bottom:16px}
+    padding:16px 18px;margin-bottom:16px}
   .side-card h2{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;
-    color:var(--muted);margin:0 0 10px}
-  .side-card ul{list-style:none;margin:0;padding:0;max-height:260px;overflow-y:auto}
-  .side-card li{font-size:13px;padding:4px 0;border-bottom:1px solid var(--border)}
+    color:var(--muted);margin:0 0 12px}
+  .side-card ul{list-style:none;margin:0;padding:0;columns:2;column-gap:16px}
+  .side-card li{font-size:13.5px;padding:5px 0;border-bottom:1px solid var(--border);
+    break-inside:avoid}
   .side-card li:last-child{border-bottom:none}
-  .side-card li a{color:var(--text);text-decoration:none}
-  .side-card li a:hover{color:var(--accent2)}
-  .side-card .hint{font-size:12px;color:var(--muted);margin-top:8px}
+  .side-card li a{color:var(--text);text-decoration:none;display:block}
+  .side-card li a:hover{color:var(--accent2);text-decoration:underline}
+  .side-card .hint{font-size:12px;color:var(--muted);margin-top:10px}
+  @media (max-width:960px){
+    .side-card ul{columns:3}
+  }
   .job{background:var(--card);border:1px solid var(--border);border-radius:8px;
     padding:14px 16px;margin-bottom:10px;display:flex;justify-content:space-between;gap:12px;align-items:center}
   .job-main{min-width:0}
@@ -131,8 +135,10 @@ async function loadSidebar() {
     document.getElementById('trackedHeading').textContent =
       `Auto-tracked companies (${data.tracked.length})`;
     document.getElementById('trackedList').innerHTML =
-      data.tracked.map(name => `<li>${escapeHtml(name)}</li>`).join('') ||
-      '<li>None yet</li>';
+      data.tracked.map(c => c.url
+        ? `<li><a href="${c.url}" target="_blank" rel="noopener">${escapeHtml(c.name)}</a></li>`
+        : `<li>${escapeHtml(c.name)}</li>`
+      ).join('') || '<li>None yet</li>';
 
     document.getElementById('manualList').innerHTML =
       data.manual.map(c =>

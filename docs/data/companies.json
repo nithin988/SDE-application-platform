@@ -1,37 +1,130 @@
 {
-  "generated_at": "2026-09-01T08:36:25.230166+00:00",
+  "generated_at": "2026-09-01T08:48:10.548912+00:00",
   "tracked": [
-    "Affirm",
-    "Airbnb",
-    "Amazon",
-    "Anthropic",
-    "Asana",
-    "Brex",
-    "Cloudflare",
-    "Coinbase",
-    "Databricks",
-    "Datadog",
-    "Dropbox",
-    "Elastic",
-    "Figma",
-    "Freshworks",
-    "GitLab",
-    "Gusto",
-    "Mastercard",
-    "MongoDB",
-    "Nvidia",
-    "Okta",
-    "Oracle",
-    "PagerDuty",
-    "Palantir",
-    "Robinhood",
-    "Rubrik",
-    "Salesforce",
-    "Samsara",
-    "Scale AI",
-    "Stripe",
-    "Twilio",
-    "Zscaler"
+    {
+      "name": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm"
+    },
+    {
+      "name": "Airbnb",
+      "url": "https://job-boards.greenhouse.io/airbnb"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.jobs/en/search?base_query=software+development+engineer&loc_query=India"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://job-boards.greenhouse.io/anthropic"
+    },
+    {
+      "name": "Asana",
+      "url": "https://job-boards.greenhouse.io/asana"
+    },
+    {
+      "name": "Brex",
+      "url": "https://job-boards.greenhouse.io/brex"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://job-boards.greenhouse.io/cloudflare"
+    },
+    {
+      "name": "Coinbase",
+      "url": "https://job-boards.greenhouse.io/coinbase"
+    },
+    {
+      "name": "Databricks",
+      "url": "https://job-boards.greenhouse.io/databricks"
+    },
+    {
+      "name": "Datadog",
+      "url": "https://job-boards.greenhouse.io/datadog"
+    },
+    {
+      "name": "Dropbox",
+      "url": "https://job-boards.greenhouse.io/dropbox"
+    },
+    {
+      "name": "Elastic",
+      "url": "https://job-boards.greenhouse.io/elastic"
+    },
+    {
+      "name": "Figma",
+      "url": "https://job-boards.greenhouse.io/figma"
+    },
+    {
+      "name": "Freshworks",
+      "url": "https://jobs.lever.co/freshworks"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://job-boards.greenhouse.io/gitlab"
+    },
+    {
+      "name": "Gusto",
+      "url": "https://job-boards.greenhouse.io/gusto"
+    },
+    {
+      "name": "Mastercard",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://job-boards.greenhouse.io/mongodb"
+    },
+    {
+      "name": "Nvidia",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+    },
+    {
+      "name": "Okta",
+      "url": "https://job-boards.greenhouse.io/okta"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions"
+    },
+    {
+      "name": "PagerDuty",
+      "url": "https://job-boards.greenhouse.io/pagerduty"
+    },
+    {
+      "name": "Palantir",
+      "url": "https://jobs.lever.co/palantir"
+    },
+    {
+      "name": "Robinhood",
+      "url": "https://job-boards.greenhouse.io/robinhood"
+    },
+    {
+      "name": "Rubrik",
+      "url": "https://job-boards.greenhouse.io/rubrik"
+    },
+    {
+      "name": "Salesforce",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+    },
+    {
+      "name": "Samsara",
+      "url": "https://job-boards.greenhouse.io/samsara"
+    },
+    {
+      "name": "Scale AI",
+      "url": "https://job-boards.greenhouse.io/scaleai"
+    },
+    {
+      "name": "Stripe",
+      "url": "https://job-boards.greenhouse.io/stripe"
+    },
+    {
+      "name": "Twilio",
+      "url": "https://job-boards.greenhouse.io/twilio"
+    },
+    {
+      "name": "Zscaler",
+      "url": "https://job-boards.greenhouse.io/zscaler"
+    }
   ],
   "manual": [
     {

@@ -330,6 +330,27 @@ FETCHERS = {
 }
 
 
+def portal_url_for(cfg: dict):
+    """The human-facing careers page for a company, for the sidebar link -
+    distinct from the JSON API endpoint the fetcher itself calls."""
+    ctype = cfg.get("type")
+    if cfg.get("url"):
+        return cfg["url"]
+    if ctype == "greenhouse":
+        return f"https://job-boards.greenhouse.io/{cfg['token']}"
+    if ctype == "lever":
+        return f"https://jobs.lever.co/{cfg['token']}"
+    if ctype == "workday":
+        return f"https://{cfg['tenant']}.{cfg['wdHost']}.myworkdayjobs.com/{cfg['site']}"
+    if ctype == "oracle_fusion":
+        return f"https://{cfg['host']}/hcmUI/CandidateExperience/en/sites/{cfg['siteNumber']}/requisitions"
+    if ctype == "smartrecruiters":
+        return f"https://jobs.smartrecruiters.com/{cfg['company']}"
+    if ctype == "amazon":
+        return "https://www.amazon.jobs/en/search?base_query=software+development+engineer&loc_query=India"
+    return None
+
+
 def load_json(path: Path, default):
     if path.exists():
         try:
@@ -346,11 +367,13 @@ def main():
 
     raw_by_company = []  # [(company_name, [raw_job, ...]), ...]
     errors = []
+    all_configs_by_name = {}
 
     for company in config["companies"]:
         name = company.get("name")
         if not name:
             continue  # skip stray/comment entries in the config
+        all_configs_by_name[name] = company
         ctype = company.get("type")
         if ctype == "manual" or not company.get("verified", True):
             continue
@@ -368,9 +391,14 @@ def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     # A sidebar list for the dashboard: which companies are auto-tracked
-    # right now, vs which ones need a manual check (no simple public API,
-    # or a previously-working one that broke) - so nothing gets missed.
+    # right now (each clickable through to its real careers page), vs which
+    # ones need a manual check (no simple public API, or a previously-working
+    # one that broke) - so nothing gets missed.
     tracked_names = sorted(name for name, _ in raw_by_company)
+    tracked_companies = [
+        {"name": name, "url": portal_url_for(all_configs_by_name[name])}
+        for name in tracked_names
+    ]
     manual_companies = []
     for company in config["companies"]:
         name = company.get("name")
@@ -387,7 +415,7 @@ def main():
         json.dumps(
             {
                 "generated_at": datetime.now(timezone.utc).isoformat(),
-                "tracked": tracked_names,
+                "tracked": tracked_companies,
                 "manual": manual_companies,
             },
             indent=2,
