@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-09-01T08:36:25.230166+00:00",
+  "tracked": [
+    "Affirm",
+    "Airbnb",
+    "Amazon",
+    "Anthropic",
+    "Asana",
+    "Brex",
+    "Cloudflare",
+    "Coinbase",
+    "Databricks",
+    "Datadog",
+    "Dropbox",
+    "Elastic",
+    "Figma",
+    "Freshworks",
+    "GitLab",
+    "Gusto",
+    "Mastercard",
+    "MongoDB",
+    "Nvidia",
+    "Okta",
+    "Oracle",
+    "PagerDuty",
+    "Palantir",
+    "Robinhood",
+    "Rubrik",
+    "Salesforce",
+    "Samsara",
+    "Scale AI",
+    "Stripe",
+    "Twilio",
+    "Zscaler"
+  ],
+  "manual": [
+    {
+      "name": "Adobe",
+      "url": "https://careers.adobe.com/us/en/search-results?keywords=software%20engineer&location=India"
+    },
+    {
+      "name": "Apple",
+      "url": "https://jobs.apple.com/en-in/search?location=india-INDC"
+    },
+    {
+      "name": "Atlassian",
+      "url": "https://www.google.com/search?q=Atlassian%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "Cisco",
+      "url": "https://careers.cisco.com/global/en/search-results?keywords=Software%20Engineer&location=India"
+    },
+    {
+      "name": "Flipkart",
+      "url": "https://www.flipkartcareers.com/#!/joblist"
+    },
+    {
+      "name": "Glean",
+      "url": "https://www.google.com/search?q=Glean%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?target_level=EARLY&location=India"
+    },
+    {
+      "name": "Intuit",
+      "url": "https://jobs.intuit.com/search-jobs/India"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?q=Software%20Engineer&lc=India"
+    },
+    {
+      "name": "PhonePe",
+      "url": "https://www.google.com/search?q=PhonePe%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "Plaid",
+      "url": "https://www.google.com/search?q=Plaid%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "Qualcomm",
+      "url": "https://careers.qualcomm.com/careers-home/jobs?keyword=software%20engineer&location=India"
+    },
+    {
+      "name": "Razorpay",
+      "url": "https://razorpay.com/jobs/"
+    },
+    {
+      "name": "Rippling",
+      "url": "https://www.google.com/search?q=Rippling%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "ServiceNow",
+      "url": "https://www.google.com/search?q=ServiceNow%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "Swiggy",
+      "url": "https://careers.swiggy.com/#/jobs"
+    },
+    {
+      "name": "Uber",
+      "url": "https://www.uber.com/us/en/careers/list/?location=IND&query=Software%20Engineer"
+    },
+    {
+      "name": "Visa",
+      "url": "https://usa.visa.com/careers.html"
+    }
+  ]
+}

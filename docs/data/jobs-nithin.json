@@ -1,0 +1,163 @@
+{
+  "profile": "nithin",
+  "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
+  "generated_at": "2026-09-01T08:36:25.231075+00:00",
+  "total": 17,
+  "new_today": 0,
+  "errors": [],
+  "jobs": [
+    {
+      "id": "nithin::Amazon::10402175",
+      "company": "Amazon",
+      "title": "Network Systems Development Engineer, Corporate Network Automation Engineering",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10402175/network-systems-development-engineer-corporate-network-automation-engineering",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10452413",
+      "company": "Amazon",
+      "title": "Software Development Engineer",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10452413/software-development-engineer",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10498616",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10498616/software-development-engineer-concessions-tech",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10498614",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10498614/software-development-engineer-concessions-tech",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10496146",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10496146/software-development-engineer-concessions-tech",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10432823",
+      "company": "Amazon",
+      "title": "Software Development Engineer I, FinOps FP&A",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10448634",
+      "company": "Amazon",
+      "title": "Software development Engineer",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10448634/software-development-engineer",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10477442",
+      "company": "Amazon",
+      "title": "Systems Development Engineer I",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10477442/systems-development-engineer-i",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10425388",
+      "company": "Amazon",
+      "title": "Systems Development Engineer, Selling Partner Solutions Storefront",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10425388/systems-development-engineer-selling-partner-solutions-storefront",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Coinbase::7558051",
+      "company": "Coinbase",
+      "title": "Software Engineer, EAA Integrations",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Coinbase::8165441",
+      "company": "Coinbase",
+      "title": "Software Engineer, Security Platform",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::GitLab::8695515002",
+      "company": "GitLab",
+      "title": "Backend Engineer, Geo Team",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Nvidia::/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
+      "company": "Nvidia",
+      "title": "Software Engineer, Production Engineering",
+      "location": "India, Bengaluru",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Okta::7919336",
+      "company": "Okta",
+      "title": "Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Rubrik::8121053",
+      "company": "Rubrik",
+      "title": "Software Engineer - Cloud Native Protection",
+      "location": "Bangalore ",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Stripe::7543868",
+      "company": "Stripe",
+      "title": "Software Engineer, Internal Systems",
+      "location": "Bengaluru, India",
+      "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Zscaler::5219488007",
+      "company": "Zscaler",
+      "title": "Software Development Engineer",
+      "location": "Bangalore, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    }
+  ]
+}

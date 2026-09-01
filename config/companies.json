@@ -10,7 +10,7 @@
     { "name": "MongoDB",     "type": "greenhouse", "token": "mongodb",    "verified": true },
     { "name": "Cloudflare",  "type": "greenhouse", "token": "cloudflare", "verified": true },
     { "name": "Dropbox",     "type": "greenhouse", "token": "dropbox",    "verified": true },
-    { "name": "PhonePe",     "type": "greenhouse", "token": "phonepe",    "verified": true },
+    { "name": "PhonePe",     "type": "greenhouse", "token": "phonepe",    "verified": false, "_note": "worked 2026-08-20, now 404s - board likely moved/disabled, recheck later" },
     { "name": "GitLab",      "type": "greenhouse", "token": "gitlab",     "verified": true },
     { "name": "Asana",       "type": "greenhouse", "token": "asana",      "verified": true },
     { "name": "Figma",       "type": "greenhouse", "token": "figma",      "verified": true },
@@ -29,7 +29,7 @@
 
     { "name": "Freshworks",  "type": "lever", "token": "freshworks", "verified": true },
     { "name": "Palantir",    "type": "lever", "token": "palantir",   "verified": true },
-    { "name": "Plaid",       "type": "lever", "token": "plaid",      "verified": true },
+    { "name": "Plaid",       "type": "lever", "token": "plaid",      "verified": false, "_note": "worked 2026-08-20, now 404s - board likely moved/disabled, recheck later" },
 
     { "name": "Salesforce",  "type": "workday", "tenant": "salesforce", "wdHost": "wd12", "site": "External_Career_Site", "verified": true },
     { "name": "Nvidia",      "type": "workday", "tenant": "nvidia",     "wdHost": "wd5",  "site": "NVIDIAExternalCareerSite", "verified": true },

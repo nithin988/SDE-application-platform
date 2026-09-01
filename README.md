@@ -1,26 +1,45 @@
 # SDE Job Radar
 
-A daily-refreshing dashboard of entry-level SDE / SWE openings in
-Hyderabad, Bengaluru, and India, pulled straight from company career-site
-APIs (Greenhouse, Workday, SmartRecruiters, Amazon Jobs). No LinkedIn/Naukri
+A daily-refreshing dashboard of SDE / SWE openings in Hyderabad, Bengaluru,
+and India, pulled straight from company career-site APIs (Greenhouse,
+Workday, Oracle Fusion, SmartRecruiters, Amazon Jobs). No LinkedIn/Naukri
 scraping, no login required — just the same data the companies' own job
 pages use, filtered and deduped for you.
 
+It serves **two people from the same company pool**, each with their own
+tab on the dashboard and their own filter:
+
+- **Nithin** — SDE-1 / entry level, ~1 year of experience.
+- **Jaswanth** — SDE-2 / "Software Development Engineer II", ~2-5 years.
+
 ## What it does
 
-1. `scripts/fetch_jobs.py` hits each configured company's public jobs API,
-   keeps only postings whose **title** looks like an entry-level SDE/SWE role
-   (excludes Senior/Staff/Lead/Manager/SDE-II+/Intern) and whose **location**
-   mentions Hyderabad, Bengaluru, or India. For Amazon specifically, title
-   alone isn't reliable — a plain "SDE" posting there can ask for 3+ years
-   just as often as 1+ — so the Amazon fetcher additionally reads the
-   posting's own `basic_qualifications` text and drops anything that states
-   more than 1 year of required experience, regardless of what the title says.
+1. `scripts/fetch_jobs.py` hits each configured company's public jobs API
+   **once** to pull every open posting, then runs that same raw pool through
+   two separate profile filters (`PROFILES` in the script):
+   - **Nithin's filter** keeps postings whose **title** looks entry-level
+     (excludes Senior/Staff/Lead/Manager/Intermediate/Intern and any
+     SDE-II+/level-2+ marker) with **location** in Hyderabad, Bengaluru, or
+     India. For Amazon specifically, title alone isn't reliable — a plain
+     "SDE" posting there can ask for 3+ years just as often as 1+ — so
+     Amazon postings are additionally gated on their own
+     `basic_qualifications` text, dropping anything stating more than 1
+     year required, regardless of what the title says.
+   - **Jaswanth's filter** requires an explicit **"II"** or **"2"** level
+     marker attached to the role (e.g. "Software Development Engineer II",
+     "SDE 2", "Software Engineer II") and the same India location check.
+     For Amazon, it additionally checks that the stated experience floor
+     is in the 2-5 year range, so a mislabeled posting can't sneak in either
+     direction.
 2. It compares against `data/seen.json` (a memory of every job ID it has
-   ever matched) so each run tags brand-new postings with `is_new: true`.
-3. It writes the result to `docs/data/jobs.json`.
-4. `docs/index.html` is a static dashboard that reads that JSON and lets you
-   search/filter and click straight through to the real "Apply" page.
+   ever matched, namespaced per profile) so each run tags brand-new
+   postings with `is_new: true` independently for each person.
+3. It writes `docs/data/jobs-nithin.json` and `docs/data/jobs-jaswanth.json`.
+4. `docs/index.html` is a static dashboard with a tab for each person; it
+   reads the matching JSON file and lets you search/filter and click
+   straight through to the real "Apply" page. Within a tab, Amazon is kept
+   in its own section since it reliably posts far more openings than every
+   other company combined — mixing them in would bury the smaller companies.
 5. A GitHub Actions workflow (`.github/workflows/daily-jobs.yml`) runs step 1
    every day at 09:30 IST and commits the updated JSON back to the repo —
    which GitHub Pages then serves automatically. No server to maintain.
@@ -36,7 +55,7 @@ runs; you never need to `python scripts/fetch_jobs.py` yourself again after
 today. Running it locally (as we did above) is only for testing/debugging —
 production is entirely the GitHub Actions + Pages combo.
 
-## Companies currently wired up (verified working, 29 total)
+## Companies currently wired up (verified working, 27 total)
 
 | Company | Source | Company | Source |
 |---|---|---|---|
@@ -49,18 +68,23 @@ production is entirely the GitHub Actions + Pages combo.
 | MongoDB | Greenhouse | Gusto | Greenhouse |
 | Cloudflare | Greenhouse | Brex | Greenhouse |
 | Dropbox | Greenhouse | Scale AI | Greenhouse |
-| PhonePe | Greenhouse | Anthropic | Greenhouse |
-| GitLab | Greenhouse | Freshworks | Lever |
-| Asana | Greenhouse | Palantir | Lever |
-| Figma | Greenhouse | Plaid | Lever |
+| GitLab | Greenhouse | Anthropic | Greenhouse |
+| Asana | Greenhouse | Freshworks | Lever |
+| Figma | Greenhouse | Palantir | Lever |
 | Zscaler | Greenhouse | Salesforce | Workday |
 | Samsara | Greenhouse | Nvidia | Workday |
 | Amazon | Amazon Jobs API | Mastercard | Workday |
 | | | Oracle | Oracle Fusion Recruiting |
 
-Not every one of these hires SDE-1s in Hyderabad/Bengaluru every day — a
-company showing 0 jobs on a given run just means nothing matching is open
-right now, the fetcher is still working correctly.
+Not every one of these hires SDE-1s/SDE-2s in Hyderabad/Bengaluru every
+day — a company showing 0 jobs on a given run just means nothing matching
+is open right now, the fetcher is still working correctly.
+
+**PhonePe (Greenhouse) and Plaid (Lever)** worked when first added but
+started 404ing shortly after — their public board likely moved or got
+disabled, not a bug in this project. Marked `"verified": false` in
+`config/companies.json` with a note to recheck later; flip it back to
+`true` if their board comes back.
 
 Rippling, Glean, Atlassian, ServiceNow, Adobe, Uber, Flipkart, Swiggy, and
 Razorpay are listed in `config/companies.json` but marked
