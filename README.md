@@ -24,7 +24,12 @@ tab on the dashboard and their own filter:
      "SDE" posting there can ask for 3+ years just as often as 1+ — so
      Amazon postings are additionally gated on their own
      `basic_qualifications` text, dropping anything stating more than 1
-     year required, regardless of what the title says.
+     year required, regardless of what the title says. That text lists
+     several bullets (e.g. "3+ years of ... development experience" then
+     later "1+ years of Object Oriented Design"), so the check reads the
+     **first** number mentioned - Amazon consistently leads with the real,
+     overall experience bar; taking the minimum across every bullet let
+     genuinely 3+ year roles slip through on an unrelated sub-skill bullet.
    - **Jaswanth's filter** requires an explicit **"II"** or **"2"** level
      marker attached to the role (e.g. "Software Development Engineer II",
      "SDE 2", "Software Engineer II") and the same India location check.

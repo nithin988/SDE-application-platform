@@ -71,10 +71,18 @@ YEARS_IN_TEXT = re.compile(r"(\d+)\+?\s*(?:-\s*\d+\s*)?\s*years?", re.IGNORECASE
 
 
 def min_years_required(text: str):
+    # Amazon's basic_qualifications always leads with the headline experience
+    # bar (e.g. "3+ years of non-internship professional software development
+    # experience") and only THEN lists secondary bullets that often cite a
+    # smaller number for one sub-skill (e.g. "1+ years of Object Oriented
+    # Design"). Taking the min across every bullet was wrong - it let a
+    # posting that actually demands 3+ years slip through because a later,
+    # unrelated bullet happened to say "1+ years" for something narrower. The
+    # first number mentioned is reliably the real, overall experience floor.
     if not text:
         return None
-    years = [int(m.group(1)) for m in YEARS_IN_TEXT.finditer(text)]
-    return min(years) if years else None
+    match = YEARS_IN_TEXT.search(text)
+    return int(match.group(1)) if match else None
 
 
 def title_states_years_over(title: str, cap: int) -> bool:

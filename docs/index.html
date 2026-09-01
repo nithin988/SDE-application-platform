@@ -19,7 +19,7 @@
     grid-template-columns:320px minmax(0,1fr);gap:28px;align-items:start}
   @media (max-width:960px){
     .layout{grid-template-columns:1fr;max-width:720px}
-    .sidebar{order:2}
+    .sidebar{order:2;position:static;max-height:none;overflow-y:visible}
     .content{order:1}
   }
   header{padding:24px 0 12px}
@@ -32,21 +32,19 @@
   .stats{display:flex;gap:16px;flex-wrap:wrap;margin:14px 0 0;font-size:13px;color:var(--muted)}
   .stats b{color:var(--text)}
   main{margin:16px 0 60px}
-  .sidebar{position:sticky;top:20px;padding:24px 0;width:100%}
+  .sidebar{position:sticky;top:20px;padding:24px 0;width:100%;max-height:calc(100vh - 40px);
+    overflow-y:auto}
   .side-card{background:var(--card);border:1px solid var(--border);border-radius:8px;
-    padding:16px 18px;margin-bottom:16px}
+    padding:16px 18px;margin-bottom:16px;display:flex;flex-direction:column;min-height:0}
   .side-card h2{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;
-    color:var(--muted);margin:0 0 12px}
-  .side-card ul{list-style:none;margin:0;padding:0;columns:2;column-gap:16px}
-  .side-card li{font-size:13.5px;padding:5px 0;border-bottom:1px solid var(--border);
-    break-inside:avoid}
+    color:var(--muted);margin:0 0 12px;flex-shrink:0}
+  .side-card ul{list-style:none;margin:0;padding:0 6px 0 0;overflow-y:auto;max-height:320px;
+    scrollbar-width:thin}
+  .side-card li{font-size:13.5px;padding:5px 0;border-bottom:1px solid var(--border)}
   .side-card li:last-child{border-bottom:none}
   .side-card li a{color:var(--text);text-decoration:none;display:block}
   .side-card li a:hover{color:var(--accent2);text-decoration:underline}
-  .side-card .hint{font-size:12px;color:var(--muted);margin-top:10px}
-  @media (max-width:960px){
-    .side-card ul{columns:3}
-  }
+  .side-card .hint{font-size:12px;color:var(--muted);margin-top:10px;flex-shrink:0}
   .job{background:var(--card);border:1px solid var(--border);border-radius:8px;
     padding:14px 16px;margin-bottom:10px;display:flex;justify-content:space-between;gap:12px;align-items:center}
   .job-main{min-width:0}
