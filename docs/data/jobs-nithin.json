@@ -1,9 +1,9 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-01T08:55:43.455683+00:00",
+  "generated_at": "2026-09-01T09:01:34.395322+00:00",
   "total": 14,
-  "new_today": 14,
+  "new_today": 0,
   "errors": [],
   "jobs": [
     {
@@ -13,7 +13,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10402175/network-systems-development-engineer-corporate-network-automation-engineering",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10452413",
@@ -22,7 +22,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10452413/software-development-engineer",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10432823",
@@ -31,7 +31,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10448634",
@@ -40,7 +40,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10448634/software-development-engineer",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10477442",
@@ -49,7 +49,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10477442/systems-development-engineer-i",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10425388",
@@ -58,7 +58,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10425388/systems-development-engineer-selling-partner-solutions-storefront",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Coinbase::7558051",
@@ -67,7 +67,7 @@
       "location": "Remote - India",
       "url": "https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Coinbase::8165441",
@@ -76,7 +76,7 @@
       "location": "Remote - India",
       "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::GitLab::8695515002",
@@ -85,7 +85,7 @@
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Nvidia::/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
@@ -94,7 +94,7 @@
       "location": "India, Bengaluru",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Okta::7919336",
@@ -103,7 +103,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Rubrik::8121053",
@@ -112,7 +112,7 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Stripe::7543868",
@@ -121,7 +121,7 @@
       "location": "Bengaluru, India",
       "url": "https://stripe.com/jobs/search?gh_jid=7543868",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Zscaler::5219488007",
@@ -130,7 +130,7 @@
       "location": "Bangalore, IND",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
