@@ -1,27 +1,54 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-09-01T09:01:34.402405+00:00",
+  "generated_at": "2026-09-02T08:15:04.788594+00:00",
   "total": 64,
-  "new_today": 2,
+  "new_today": 5,
   "errors": [],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10484875",
+      "id": "jaswanth::Amazon::10525264",
       "company": "Amazon",
-      "title": "Software Development Engineer II , Cross Border Haul Team",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10484875/software-development-engineer-ii-cross-border-haul-team",
-      "first_seen": "2026-09-01",
+      "url": "https://www.amazon.jobs/en/jobs/10525264/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-02",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10487361",
+      "id": "jaswanth::Amazon::10502055",
       "company": "Amazon",
-      "title": "Software Development Engineer II, Aurora Storage, Aurora Storage",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10487361/software-development-engineer-ii-aurora-storage-aurora-storage",
-      "first_seen": "2026-09-01",
+      "url": "https://www.amazon.jobs/en/jobs/10502055/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Amazon::10523659",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Amazon External Payments",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10523659/software-development-engineer-ii-amazon-external-payments",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Amazon::10489852",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Amazon Music Automotive Team",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10489852/software-development-engineer-ii-amazon-music-automotive-team",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Vadodara-India/Software-Engineer-II_R-284464-1",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Vadodara, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Software-Engineer-II_R-284464-1",
+      "first_seen": "2026-09-02",
       "is_new": true
     },
     {
@@ -30,15 +57,6 @@
       "title": "Software Development Engineer -  2, IN-Ads ",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/3205082/software-development-engineer-2-in-ads",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10469359",
-      "company": "Amazon",
-      "title": "Software Development Engineer - II",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10469359/software-development-engineer-ii",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -61,20 +79,20 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10469359",
+      "company": "Amazon",
+      "title": "Software Development Engineer - II",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10469359/software-development-engineer-ii",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::3151212",
       "company": "Amazon",
       "title": "Software Development Engineer - II",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/3151212/software-development-engineer-ii",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10474683",
-      "company": "Amazon",
-      "title": "Software Development Engineer - II",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10474683/software-development-engineer-ii",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -93,15 +111,6 @@
       "title": "Software Development Engineer - II, FinTech - TFAW",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10446957/software-development-engineer-ii-fintech-tfaw",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10513792",
-      "company": "Amazon",
-      "title": "Software Development Engineer - II, ShipTech Analytics",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10513792/software-development-engineer-ii-shiptech-analytics",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -556,11 +565,11 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-288697",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288697",
+      "id": "jaswanth::Oracle::338461",
+      "company": "Oracle",
+      "title": "Application Software Engineer 2",
+      "location": "India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/338461",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -570,15 +579,6 @@
       "title": "Application Software Engineer 2",
       "location": "India",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/340959",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Oracle::338461",
-      "company": "Oracle",
-      "title": "Application Software Engineer 2",
-      "location": "India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/338461",
       "first_seen": "2026-09-01",
       "is_new": false
     }

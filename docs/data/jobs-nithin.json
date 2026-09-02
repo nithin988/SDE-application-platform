@@ -1,11 +1,29 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-01T09:01:34.395322+00:00",
-  "total": 14,
-  "new_today": 0,
+  "generated_at": "2026-09-02T08:15:04.781142+00:00",
+  "total": 16,
+  "new_today": 2,
   "errors": [],
   "jobs": [
+    {
+      "id": "nithin::Amazon::10511883",
+      "company": "Amazon",
+      "title": "Software Development Engineer -I, IESP Merchant Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Salesforce::/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
+      "company": "Salesforce",
+      "title": "Zuora Revenue Systems Engineer",
+      "location": "India - Hyderabad",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
     {
       "id": "nithin::Amazon::10402175",
       "company": "Amazon",
