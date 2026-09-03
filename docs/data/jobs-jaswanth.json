@@ -1,54 +1,27 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-09-02T08:15:04.788594+00:00",
-  "total": 64,
-  "new_today": 5,
+  "generated_at": "2026-09-03T08:24:21.877521+00:00",
+  "total": 57,
+  "new_today": 2,
   "errors": [],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10525264",
+      "id": "jaswanth::Amazon::10525665",
       "company": "Amazon",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10525264/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-09-02",
+      "title": "Software Development Engineer - II",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10525665/software-development-engineer-ii",
+      "first_seen": "2026-09-03",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10502055",
-      "company": "Amazon",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10502055/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10523659",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon External Payments",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10523659/software-development-engineer-ii-amazon-external-payments",
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10489852",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon Music Automotive Team",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10489852/software-development-engineer-ii-amazon-music-automotive-team",
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Mastercard::/job/Vadodara-India/Software-Engineer-II_R-284464-1",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "Vadodara, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Software-Engineer-II_R-284464-1",
-      "first_seen": "2026-09-02",
+      "id": "jaswanth::Oracle::341695",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/341695",
+      "first_seen": "2026-09-03",
       "is_new": true
     },
     {
@@ -75,15 +48,6 @@
       "title": "Software Development Engineer - II",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10418914/software-development-engineer-ii",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10469359",
-      "company": "Amazon",
-      "title": "Software Development Engineer - II",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10469359/software-development-engineer-ii",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -151,6 +115,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10525264",
+      "company": "Amazon",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10525264/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10374503",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
@@ -183,15 +156,6 @@
       "title": "Software Development Engineer II , Product & Offers Experience",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10517858/software-development-engineer-ii-product-offers-experience",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10517857",
-      "company": "Amazon",
-      "title": "Software Development Engineer II , Product & Offers Experience",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10517857/software-development-engineer-ii-product-offers-experience",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -232,20 +196,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10403403",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10403403/software-development-engineer-ii-amazon",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10502808",
       "company": "Amazon",
       "title": "Software Development Engineer II, Amazon",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10502808/software-development-engineer-ii-amazon",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10403403",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Amazon",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10403403/software-development-engineer-ii-amazon",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -259,11 +223,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10456197",
+      "id": "jaswanth::Amazon::10523659",
       "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon",
+      "title": "Software Development Engineer II, Amazon External Payments",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10523659/software-development-engineer-ii-amazon-external-payments",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10379957",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Amazon Finance Technology",
       "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10456197/software-development-engineer-ii-amazon",
+      "url": "https://www.amazon.jobs/en/jobs/10379957/software-development-engineer-ii-amazon-finance-technology",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -273,15 +246,6 @@
       "title": "Software Development Engineer II, Amazon Finance Technology",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10482790/software-development-engineer-ii-amazon-finance-technology",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10379957",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon Finance Technology",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10379957/software-development-engineer-ii-amazon-finance-technology",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -367,15 +331,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::3114120",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Direct Fulfilment",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/3114120/software-development-engineer-ii-direct-fulfilment",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::3156875",
       "company": "Amazon",
       "title": "Software Development Engineer II, Direct Fulfilment",
@@ -408,15 +363,6 @@
       "title": "Software Development Engineer II, FGBS",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10411242/software-development-engineer-ii-fgbs",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10447725",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, FinTech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10447725/software-development-engineer-ii-fintech",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -516,15 +462,6 @@
       "title": "Software Development Engineer II, Selling Partner Financial Technology",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10474772/software-development-engineer-ii-selling-partner-financial-technology",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10512593",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Vendor Experience",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10512593/software-development-engineer-ii-vendor-experience",
       "first_seen": "2026-09-01",
       "is_new": false
     },

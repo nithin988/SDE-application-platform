@@ -1,29 +1,11 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-02T08:15:04.781142+00:00",
-  "total": 16,
-  "new_today": 2,
+  "generated_at": "2026-09-03T08:24:21.868619+00:00",
+  "total": 13,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "nithin::Amazon::10511883",
-      "company": "Amazon",
-      "title": "Software Development Engineer -I, IESP Merchant Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "id": "nithin::Salesforce::/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
-      "company": "Salesforce",
-      "title": "Zuora Revenue Systems Engineer",
-      "location": "India - Hyderabad",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
     {
       "id": "nithin::Amazon::10402175",
       "company": "Amazon",
@@ -43,6 +25,15 @@
       "is_new": false
     },
     {
+      "id": "nithin::Amazon::10511883",
+      "company": "Amazon",
+      "title": "Software Development Engineer -I, IESP Merchant Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
       "id": "nithin::Amazon::10432823",
       "company": "Amazon",
       "title": "Software Development Engineer I, FinOps FP&A",
@@ -57,15 +48,6 @@
       "title": "Software development Engineer",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10448634/software-development-engineer",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10477442",
-      "company": "Amazon",
-      "title": "Systems Development Engineer I",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10477442/systems-development-engineer-i",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -117,7 +99,7 @@
     {
       "id": "nithin::Okta::7919336",
       "company": "Okta",
-      "title": "Software Engineer",
+      "title": "Software Engineer (iOS)",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
       "first_seen": "2026-09-01",
@@ -138,15 +120,6 @@
       "title": "Software Engineer, Internal Systems",
       "location": "Bengaluru, India",
       "url": "https://stripe.com/jobs/search?gh_jid=7543868",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Zscaler::5219488007",
-      "company": "Zscaler",
-      "title": "Software Development Engineer",
-      "location": "Bangalore, IND",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
       "first_seen": "2026-09-01",
       "is_new": false
     }
