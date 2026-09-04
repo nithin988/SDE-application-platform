@@ -1,26 +1,71 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-03T08:24:21.868619+00:00",
-  "total": 13,
-  "new_today": 0,
+  "generated_at": "2026-09-04T08:20:25.518149+00:00",
+  "total": 18,
+  "new_today": 6,
   "errors": [],
   "jobs": [
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer_R-289525",
+      "company": "Mastercard",
+      "title": "Software Engineer",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer_R-289525",
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer---Full-Stack_R-289575",
+      "company": "Mastercard",
+      "title": "Software Engineer - Full Stack",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Full-Stack_R-289575",
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289576",
+      "company": "Mastercard",
+      "title": "Software Engineer - Java Spring Boot",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289576",
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289581",
+      "company": "Mastercard",
+      "title": "Software Engineer - Java Spring Boot",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289581",
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Oracle::344317",
+      "company": "Oracle",
+      "title": "Application Software Engineer 1",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344317",
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Oracle::344313",
+      "company": "Oracle",
+      "title": "Application Software Engineer 1",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344313",
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
     {
       "id": "nithin::Amazon::10402175",
       "company": "Amazon",
       "title": "Network Systems Development Engineer, Corporate Network Automation Engineering",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10402175/network-systems-development-engineer-corporate-network-automation-engineering",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10452413",
-      "company": "Amazon",
-      "title": "Software Development Engineer",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10452413/software-development-engineer",
       "first_seen": "2026-09-01",
       "is_new": false
     },
