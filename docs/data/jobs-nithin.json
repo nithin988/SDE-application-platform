@@ -1,11 +1,29 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-07T08:45:38.253823+00:00",
-  "total": 13,
-  "new_today": 0,
+  "generated_at": "2026-09-08T08:26:47.689049+00:00",
+  "total": 15,
+  "new_today": 2,
   "errors": [],
   "jobs": [
+    {
+      "id": "nithin::Amazon::10530940",
+      "company": "Amazon",
+      "title": "Software Development Engineer I, Amazon Payments",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments",
+      "first_seen": "2026-09-08",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Twilio::7996779",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
+      "first_seen": "2026-09-08",
+      "is_new": true
+    },
     {
       "id": "nithin::Amazon::10402175",
       "company": "Amazon",
@@ -79,15 +97,6 @@
       "is_new": false
     },
     {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-289557",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-289557",
-      "first_seen": "2026-09-05",
-      "is_new": false
-    },
-    {
       "id": "nithin::Nvidia::/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1",
       "company": "Nvidia",
       "title": "Software Engineer, Production Engineering",
@@ -120,6 +129,15 @@
       "title": "Software Engineer, Internal Systems",
       "location": "Bengaluru, India",
       "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Zscaler::5219488007",
+      "company": "Zscaler",
+      "title": "Software Development Engineer",
+      "location": "Bangalore, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
       "first_seen": "2026-09-01",
       "is_new": false
     }

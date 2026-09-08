@@ -1,18 +1,45 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-09-07T08:45:38.262976+00:00",
-  "total": 51,
-  "new_today": 1,
+  "generated_at": "2026-09-08T08:26:47.696496+00:00",
+  "total": 58,
+  "new_today": 4,
   "errors": [],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10370961",
+      "id": "jaswanth::Amazon::10530594",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10370961/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-09-07",
+      "url": "https://www.amazon.jobs/en/jobs/10530594/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-08",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Amazon::10530932",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, FinTech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10530932/software-development-engineer-ii-fintech",
+      "first_seen": "2026-09-08",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-287513",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287513",
+      "first_seen": "2026-09-08",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-287128",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287128",
+      "first_seen": "2026-09-08",
       "is_new": true
     },
     {
@@ -97,6 +124,24 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10370961",
+      "company": "Amazon",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10370961/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-07",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10374503",
+      "company": "Amazon",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10374503/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10530595",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
@@ -115,11 +160,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10374503",
+      "id": "jaswanth::Amazon::10488199",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10374503/software-development-engineer-ii-amazon-cross-border-tech",
+      "url": "https://www.amazon.jobs/en/jobs/10488199/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10484877",
+      "company": "Amazon",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10484877/software-development-engineer-ii-amazon-cross-border-tech",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -426,6 +480,15 @@
       "title": "Software Development Engineer II, Selling Partner Financial Technology",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10474772/software-development-engineer-ii-selling-partner-financial-technology",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10500349",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Selling Partner Identity Verification",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10500349/software-development-engineer-ii-selling-partner-identity-verification",
       "first_seen": "2026-09-01",
       "is_new": false
     },
