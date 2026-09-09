@@ -1,45 +1,63 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-09-08T08:26:47.696496+00:00",
+  "generated_at": "2026-09-09T08:29:25.962384+00:00",
   "total": 58,
-  "new_today": 4,
+  "new_today": 6,
   "errors": [],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10530594",
+      "id": "jaswanth::Amazon::10533778",
       "company": "Amazon",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "title": "Software Development Engineer II",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10530594/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-09-08",
+      "url": "https://www.amazon.jobs/en/jobs/10533778/software-development-engineer-ii",
+      "first_seen": "2026-09-09",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10530932",
+      "id": "jaswanth::Amazon::10533780",
       "company": "Amazon",
-      "title": "Software Development Engineer II, FinTech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10530932/software-development-engineer-ii-fintech",
-      "first_seen": "2026-09-08",
+      "title": "Software Development Engineer II",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10533780/software-development-engineer-ii",
+      "first_seen": "2026-09-09",
       "is_new": true
     },
     {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-287513",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287513",
-      "first_seen": "2026-09-08",
+      "id": "jaswanth::Amazon::10532279",
+      "company": "Amazon",
+      "title": "Software Development Engineer II",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10532279/software-development-engineer-ii",
+      "first_seen": "2026-09-09",
       "is_new": true
     },
     {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-287128",
+      "id": "jaswanth::Amazon::10531789",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, TFS",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10531789/software-development-engineer-ii-tfs",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-290245-1",
       "company": "Mastercard",
       "title": "Software Engineer II",
       "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287128",
-      "first_seen": "2026-09-08",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290245-1",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II--Mainframe-Developer-_R-274163",
+      "company": "Mastercard",
+      "title": "Software Engineer II (Mainframe Developer)",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II--Mainframe-Developer-_R-274163",
+      "first_seen": "2026-09-09",
       "is_new": true
     },
     {
@@ -133,12 +151,12 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10374503",
+      "id": "jaswanth::Amazon::10530594",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10374503/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-09-01",
+      "url": "https://www.amazon.jobs/en/jobs/10530594/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-08",
       "is_new": false
     },
     {
@@ -160,20 +178,11 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10488199",
+      "id": "jaswanth::Amazon::10374503",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10488199/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10484877",
-      "company": "Amazon",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10484877/software-development-engineer-ii-amazon-cross-border-tech",
+      "url": "https://www.amazon.jobs/en/jobs/10374503/software-development-engineer-ii-amazon-cross-border-tech",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -331,15 +340,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10462915",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon Smart Vehicles",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10462915/software-development-engineer-ii-amazon-smart-vehicles",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10462918",
       "company": "Amazon",
       "title": "Software Development Engineer II, Amazon Smart Vehicles",
@@ -418,6 +418,15 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10411242/software-development-engineer-ii-fgbs",
       "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10530932",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, FinTech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10530932/software-development-engineer-ii-fintech",
+      "first_seen": "2026-09-08",
       "is_new": false
     },
     {
@@ -511,21 +520,12 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Oracle::338461",
-      "company": "Oracle",
-      "title": "Application Software Engineer 2",
-      "location": "India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/338461",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Oracle::341695",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "BENGALURU, KARNATAKA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/341695",
-      "first_seen": "2026-09-03",
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-287513",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287513",
+      "first_seen": "2026-09-08",
       "is_new": false
     }
   ]

@@ -1,27 +1,27 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-08T08:26:47.689049+00:00",
-  "total": 15,
+  "generated_at": "2026-09-09T08:29:25.955808+00:00",
+  "total": 14,
   "new_today": 2,
   "errors": [],
   "jobs": [
     {
-      "id": "nithin::Amazon::10530940",
+      "id": "nithin::Amazon::10530909",
       "company": "Amazon",
-      "title": "Software Development Engineer I, Amazon Payments",
+      "title": "Software Development Engineer I",
       "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments",
-      "first_seen": "2026-09-08",
+      "url": "https://www.amazon.jobs/en/jobs/10530909/software-development-engineer-i",
+      "first_seen": "2026-09-09",
       "is_new": true
     },
     {
-      "id": "nithin::Twilio::7996779",
-      "company": "Twilio",
-      "title": "Software Engineer (L3)",
-      "location": "Remote - India",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
-      "first_seen": "2026-09-08",
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1",
+      "company": "Mastercard",
+      "title": "Software Engineer I",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1",
+      "first_seen": "2026-09-09",
       "is_new": true
     },
     {
@@ -43,20 +43,20 @@
       "is_new": false
     },
     {
+      "id": "nithin::Amazon::10530940",
+      "company": "Amazon",
+      "title": "Software Development Engineer I, Amazon Payments",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments",
+      "first_seen": "2026-09-08",
+      "is_new": false
+    },
+    {
       "id": "nithin::Amazon::10432823",
       "company": "Amazon",
       "title": "Software Development Engineer I, FinOps FP&A",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10448634",
-      "company": "Amazon",
-      "title": "Software development Engineer",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10448634/software-development-engineer",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -84,15 +84,6 @@
       "title": "Software Engineer, Security Platform",
       "location": "Remote - India",
       "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "nithin::GitLab::8695515002",
-      "company": "GitLab",
-      "title": "Backend Engineer, Geo Team",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002",
       "first_seen": "2026-09-01",
       "is_new": false
     },
@@ -133,12 +124,12 @@
       "is_new": false
     },
     {
-      "id": "nithin::Zscaler::5219488007",
-      "company": "Zscaler",
-      "title": "Software Development Engineer",
-      "location": "Bangalore, IND",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
-      "first_seen": "2026-09-01",
+      "id": "nithin::Twilio::7996779",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
+      "first_seen": "2026-09-08",
       "is_new": false
     }
   ]
