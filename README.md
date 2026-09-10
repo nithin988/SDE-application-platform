@@ -30,12 +30,28 @@ tab on the dashboard and their own filter:
      **first** number mentioned - Amazon consistently leads with the real,
      overall experience bar; taking the minimum across every bullet let
      genuinely 3+ year roles slip through on an unrelated sub-skill bullet.
-   - **Jaswanth's filter** requires an explicit **"II"** or **"2"** level
-     marker attached to the role (e.g. "Software Development Engineer II",
-     "SDE 2", "Software Engineer II") and the same India location check.
-     For Amazon, it additionally checks that the stated experience floor
-     is in the 2-5 year range, so a mislabeled posting can't sneak in either
-     direction.
+
+     **For every other company, an unmarked title does NOT default to
+     entry-level.** Amazon's convention is that "Software Development
+     Engineer" with no suffix means L4/entry - but Stripe, Coinbase,
+     GitLab, Nvidia, Okta, Rubrik, Zscaler, etc. don't follow that
+     convention, and a generic "Software Engineer" posting from them is
+     routinely a 3-8 YOE lateral-hire role in practice (there's no
+     `basic_qualifications`-style text available from their APIs to verify
+     this directly, unlike Amazon). So for anyone but Amazon, the title
+     must carry an explicit entry signal - an "I"/"1" marker, or a word
+     like "New Grad", "University", "Junior", "Associate", "Entry Level",
+     "Campus" - to count as Nithin's. Unmarked titles from those companies
+     fall through to Jaswanth's filter instead (see below), since their
+     real-world experience bar fits that band better.
+   - **Jaswanth's filter** accepts a posting if either: it carries an
+     explicit **"II"**/**"2"** level marker (e.g. "Software Development
+     Engineer II", "SDE 2"), or - for non-Amazon companies - it's a
+     generic/unmarked title with no "I"/entry signal either (see above;
+     this is the common case for most non-Amazon postings, by design).
+     For Amazon, it instead trusts the `basic_qualifications` floor
+     directly and requires it to fall in the 2-5 year range, regardless of
+     what the title says.
 2. It compares against `data/seen.json` (a memory of every job ID it has
    ever matched, namespaced per profile) so each run tags brand-new
    postings with `is_new: true` independently for each person.

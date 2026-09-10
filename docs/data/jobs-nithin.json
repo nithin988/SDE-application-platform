@@ -1,29 +1,11 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-10T03:34:37.917364+00:00",
+  "generated_at": "2026-09-10T03:40:13.018662+00:00",
   "total": 7,
-  "new_today": 7,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "nithin::Amazon::10530909",
-      "company": "Amazon",
-      "title": "Software Development Engineer I",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10530909/software-development-engineer-i",
-      "first_seen": "2026-09-09",
-      "is_new": true
-    },
-    {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1",
-      "first_seen": "2026-09-09",
-      "is_new": true
-    },
     {
       "id": "nithin::Amazon::10402175",
       "company": "Amazon",
@@ -31,7 +13,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10402175/network-systems-development-engineer-corporate-network-automation-engineering",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10511883",
@@ -40,7 +22,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10530909",
@@ -49,7 +31,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10530909/software-development-engineer-i",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10530940",
@@ -58,7 +40,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10432823",
@@ -67,7 +49,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10425388",
@@ -76,7 +58,7 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10425388/systems-development-engineer-selling-partner-solutions-storefront",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1",
@@ -85,7 +67,7 @@
       "location": "Pune, India",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
