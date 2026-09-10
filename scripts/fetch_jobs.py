@@ -58,6 +58,15 @@ LEVEL3PLUS_MARKER = re.compile(
     r"(engineer|developer|sde|swe)\s*[-,]?\s*(iii|iv|v|[3-9]|test)\b", re.IGNORECASE
 )
 
+# Explicit "this is a fresh-grad role" signals - the only thing that should
+# make an otherwise-unmarked title at a non-Amazon company count as entry
+# level (see matches_entry_level for why unmarked defaults to NOT entry).
+ENTRY_SIGNAL = re.compile(
+    r"\b(new\s*grad(uate)?|university|entry[- ]?level|junior|jr\.?|"
+    r"associate|early[- ]?career|campus|fresher)\b",
+    re.IGNORECASE,
+)
+
 # Catches explicit experience-range call-outs in the title itself, e.g.
 # "(3-5 Years)" or "5+ Years".
 YEARS_IN_TITLE = re.compile(r"(\d+)\s*(?:-\s*\d+\s*)?\+?\s*years?", re.IGNORECASE)
@@ -104,7 +113,7 @@ def base_eligible(job: dict) -> bool:
     return bool(ROLE_FAMILY_INCLUDE.search(title))
 
 
-def matches_entry_level(job: dict) -> bool:
+def matches_entry_level(job: dict, company_name: str) -> bool:
     """Nithin's profile: SDE-1 / ~1 YOE."""
     if not base_eligible(job):
         return False
@@ -114,22 +123,41 @@ def matches_entry_level(job: dict) -> bool:
     if title_states_years_over(title, 2):
         return False
     min_years = job.get("min_years")
-    if min_years is not None and min_years > 1:
-        return False
-    return True
+    if min_years is not None:
+        return min_years <= 1
+    # No ground-truth experience text available (only Amazon provides one -
+    # see min_years_required). Amazon's own convention is that an unmarked
+    # title ("Software Development Engineer", no "I"/"II") means L4/entry,
+    # so it's safe to accept there. Every other company in this list
+    # (Stripe, Coinbase, GitLab, Nvidia, Okta, Rubrik, Zscaler, ...) does
+    # NOT follow that convention - a generic, unmarked "Software Engineer"
+    # posting from them is routinely a 3-8 YOE lateral-hire role in
+    # practice, title notwithstanding. So for anyone else, require an
+    # explicit entry-level signal instead of assuming one.
+    if company_name == "Amazon":
+        return True
+    return bool(LEVEL1_MARKER.search(title) or ENTRY_SIGNAL.search(title))
 
 
-def matches_sde2(job: dict) -> bool:
+def matches_sde2(job: dict, company_name: str) -> bool:
     """Jaswanth's profile: SDE-2 / "Software Development Engineer II"."""
     if not base_eligible(job):
         return False
     title = job["title"]
     if LEVEL3PLUS_MARKER.search(title):
         return False
-    if not LEVEL2_MARKER.search(title):
-        return False  # require an explicit "II"/"2" marker - that's the ask
     min_years = job.get("min_years")
-    if min_years is not None and (min_years < 2 or min_years > 5):
+    if min_years is not None:
+        return 2 <= min_years <= 5
+    if LEVEL2_MARKER.search(title):
+        return True
+    if company_name == "Amazon":
+        return False  # no quals text and no explicit "II" - too ambiguous
+    # Same reasoning as matches_entry_level, mirrored: an unmarked title at
+    # a non-Amazon company is NOT reliably entry-level, so by default it
+    # fits Jaswanth's ~2-5 YOE band better - unless it explicitly says
+    # otherwise (an "I"/"1" marker or a fresh-grad signal).
+    if LEVEL1_MARKER.search(title) or ENTRY_SIGNAL.search(title):
         return False
     return True
 
@@ -437,7 +465,7 @@ def main():
         results = []
         for company_name, raw_jobs in raw_by_company:
             for j in raw_jobs:
-                if not profile["matches"](j):
+                if not profile["matches"](j, company_name):
                     continue
                 job_id = f"{profile_key}::{company_name}::{j['raw_id']}"
                 is_new = job_id not in seen
