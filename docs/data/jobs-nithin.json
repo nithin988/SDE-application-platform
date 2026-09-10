@@ -1,8 +1,8 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-10T03:40:13.018662+00:00",
-  "total": 7,
+  "generated_at": "2026-09-10T08:30:57.047957+00:00",
+  "total": 6,
   "new_today": 0,
   "errors": [],
   "jobs": [
@@ -57,15 +57,6 @@
       "title": "Systems Development Engineer, Selling Partner Solutions Storefront",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10425388/systems-development-engineer-selling-partner-solutions-storefront",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1",
       "first_seen": "2026-09-10",
       "is_new": false
     }
