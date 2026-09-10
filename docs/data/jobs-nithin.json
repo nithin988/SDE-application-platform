@@ -7,6 +7,24 @@
   "errors": [],
   "jobs": [
     {
+      "id": "nithin::Amazon::10530909",
+      "company": "Amazon",
+      "title": "Software Development Engineer I",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10530909/software-development-engineer-i",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1",
+      "company": "Mastercard",
+      "title": "Software Engineer I",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
       "id": "nithin::Amazon::10402175",
       "company": "Amazon",
       "title": "Network Systems Development Engineer, Corporate Network Automation Engineering",
