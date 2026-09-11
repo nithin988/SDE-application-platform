@@ -1,11 +1,20 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-10T08:30:57.047957+00:00",
-  "total": 6,
-  "new_today": 0,
+  "generated_at": "2026-09-11T08:25:35.767438+00:00",
+  "total": 7,
+  "new_today": 1,
   "errors": [],
   "jobs": [
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290204",
+      "company": "Mastercard",
+      "title": "Software Engineer I",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290204",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
     {
       "id": "nithin::Amazon::10402175",
       "company": "Amazon",
@@ -52,11 +61,11 @@
       "is_new": false
     },
     {
-      "id": "nithin::Amazon::10425388",
-      "company": "Amazon",
-      "title": "Systems Development Engineer, Selling Partner Solutions Storefront",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10425388/systems-development-engineer-selling-partner-solutions-storefront",
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1",
+      "company": "Mastercard",
+      "title": "Software Engineer I",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1",
       "first_seen": "2026-09-10",
       "is_new": false
     }
