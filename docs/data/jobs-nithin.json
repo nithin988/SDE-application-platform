@@ -1,18 +1,18 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-11T08:25:35.767438+00:00",
-  "total": 7,
+  "generated_at": "2026-09-12T08:14:08.509410+00:00",
+  "total": 6,
   "new_today": 1,
   "errors": [],
   "jobs": [
     {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290204",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290204",
-      "first_seen": "2026-09-11",
+      "id": "nithin::Amazon::10537388",
+      "company": "Amazon",
+      "title": "Network Systems Development Engineer, Corporate Network Automation Engineering",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10537388/network-systems-development-engineer-corporate-network-automation-engineering",
+      "first_seen": "2026-09-12",
       "is_new": true
     },
     {
@@ -30,15 +30,6 @@
       "title": "Software Development Engineer -I, IESP Merchant Tech",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10530909",
-      "company": "Amazon",
-      "title": "Software Development Engineer I",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10530909/software-development-engineer-i",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -61,12 +52,12 @@
       "is_new": false
     },
     {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1",
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290204",
       "company": "Mastercard",
       "title": "Software Engineer I",
       "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1",
-      "first_seen": "2026-09-10",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290204",
+      "first_seen": "2026-09-11",
       "is_new": false
     }
   ]
