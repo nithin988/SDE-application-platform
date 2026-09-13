@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:14:08.499315+00:00",
+  "generated_at": "2026-09-13T08:38:36.457401+00:00",
   "tracked": [
     {
       "name": "Affirm",
@@ -66,10 +66,6 @@
       "url": "https://job-boards.greenhouse.io/gusto"
     },
     {
-      "name": "Mastercard",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
-    },
-    {
       "name": "MongoDB",
       "url": "https://job-boards.greenhouse.io/mongodb"
     },
@@ -92,10 +88,6 @@
     {
       "name": "Palantir",
       "url": "https://jobs.lever.co/palantir"
-    },
-    {
-      "name": "Robinhood",
-      "url": "https://job-boards.greenhouse.io/robinhood"
     },
     {
       "name": "Rubrik",
@@ -160,6 +152,10 @@
       "url": "https://jobs.intuit.com/search-jobs/India"
     },
     {
+      "name": "Mastercard",
+      "url": "https://www.google.com/search?q=Mastercard%20careers%20software%20engineer%20India"
+    },
+    {
       "name": "Microsoft",
       "url": "https://jobs.careers.microsoft.com/global/en/search?q=Software%20Engineer&lc=India"
     },
@@ -182,6 +178,10 @@
     {
       "name": "Rippling",
       "url": "https://www.google.com/search?q=Rippling%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "Robinhood",
+      "url": "https://www.google.com/search?q=Robinhood%20careers%20software%20engineer%20India"
     },
     {
       "name": "ServiceNow",
