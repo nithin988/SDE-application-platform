@@ -1,14 +1,29 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-09-13T08:38:36.469336+00:00",
-  "total": 111,
-  "new_today": 0,
-  "errors": [
-    "Robinhood: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-    "Mastercard: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-  ],
+  "generated_at": "2026-09-14T09:23:58.271065+00:00",
+  "total": 113,
+  "new_today": 2,
+  "errors": [],
   "jobs": [
+    {
+      "id": "jaswanth::Amazon::10538347",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Amazon Now (Tez)",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10538347/software-development-engineer-ii-amazon-now-tez",
+      "first_seen": "2026-09-14",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Oracle::338461",
+      "company": "Oracle",
+      "title": "Application Software Engineer 2",
+      "location": "India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/338461",
+      "first_seen": "2026-09-14",
+      "is_new": true
+    },
     {
       "id": "jaswanth::Amazon::10452931",
       "company": "Amazon",
@@ -69,15 +84,6 @@
       "title": "Software Development Engineer ",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10503778/software-development-engineer",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10498616",
-      "company": "Amazon",
-      "title": "Software Development Engineer , Concessions Tech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10498616/software-development-engineer-concessions-tech",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -385,15 +391,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10538206/software-development-engineer-ii-amazon-now",
       "first_seen": "2026-09-12",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10507894",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon Payments",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10507894/software-development-engineer-ii-amazon-payments",
-      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
@@ -970,6 +967,24 @@
       "location": "Remote - India",
       "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-288000",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288000",
+      "first_seen": "2026-09-12",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II--Java-Full-Stack-Developer-_R-259024",
+      "company": "Mastercard",
+      "title": "Software Engineer II (Java Full Stack Developer)",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II--Java-Full-Stack-Developer-_R-259024",
+      "first_seen": "2026-09-12",
       "is_new": false
     },
     {
