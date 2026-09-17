@@ -1,11 +1,20 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-16T08:57:35.515305+00:00",
-  "total": 5,
-  "new_today": 0,
+  "generated_at": "2026-09-17T09:01:44.292517+00:00",
+  "total": 6,
+  "new_today": 1,
   "errors": [],
   "jobs": [
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer---1_R-288516",
+      "company": "Mastercard",
+      "title": "Software Engineer - 1",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516",
+      "first_seen": "2026-09-17",
+      "is_new": true
+    },
     {
       "id": "nithin::Amazon::10537388",
       "company": "Amazon",
