@@ -1,18 +1,45 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-17T09:01:44.292517+00:00",
-  "total": 6,
-  "new_today": 1,
+  "generated_at": "2026-09-18T08:36:43.048694+00:00",
+  "total": 9,
+  "new_today": 4,
   "errors": [],
   "jobs": [
     {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer---1_R-288516",
+      "id": "nithin::Amazon::10544314",
+      "company": "Amazon",
+      "title": "Software Development Engineer I, IESP Merchant Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10544314/software-development-engineer-i-iesp-merchant-tech",
+      "first_seen": "2026-09-18",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-II_R-288000",
       "company": "Mastercard",
-      "title": "Software Engineer - 1",
+      "title": "Software Engineer I",
       "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516",
-      "first_seen": "2026-09-17",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288000",
+      "first_seen": "2026-09-18",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Oracle::345514",
+      "company": "Oracle",
+      "title": "Application Software Engineer 1",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345514",
+      "first_seen": "2026-09-18",
+      "is_new": true
+    },
+    {
+      "id": "nithin::Oracle::345521",
+      "company": "Oracle",
+      "title": "Application Software Engineer 1",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345521",
+      "first_seen": "2026-09-18",
       "is_new": true
     },
     {

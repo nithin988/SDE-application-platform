@@ -118,10 +118,15 @@
   "jaswanth::Amazon::10545214": "2026-09-17",
   "jaswanth::Amazon::10546640": "2026-09-17",
   "jaswanth::Amazon::10551624": "2026-09-17",
+  "jaswanth::Amazon::10552119": "2026-09-18",
+  "jaswanth::Amazon::10552379": "2026-09-18",
+  "jaswanth::Amazon::10553121": "2026-09-18",
+  "jaswanth::Amazon::10553122": "2026-09-18",
   "jaswanth::Amazon::3120411": "2026-09-10",
   "jaswanth::Amazon::3151212": "2026-09-10",
   "jaswanth::Amazon::3156875": "2026-09-10",
   "jaswanth::Amazon::3172711": "2026-09-10",
+  "jaswanth::Amazon::3173413": "2026-09-18",
   "jaswanth::Amazon::3175272": "2026-09-10",
   "jaswanth::Amazon::3187761": "2026-09-10",
   "jaswanth::Amazon::3202055": "2026-09-10",
@@ -152,7 +157,11 @@
   "nithin::Amazon::10530909": "2026-09-10",
   "nithin::Amazon::10530940": "2026-09-10",
   "nithin::Amazon::10537388": "2026-09-12",
+  "nithin::Amazon::10544314": "2026-09-18",
   "nithin::Mastercard::/job/Pune-India/Software-Engineer---1_R-288516": "2026-09-17",
+  "nithin::Mastercard::/job/Pune-India/Software-Engineer-II_R-288000": "2026-09-18",
   "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290204": "2026-09-11",
-  "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1": "2026-09-10"
+  "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-290205-1": "2026-09-10",
+  "nithin::Oracle::345514": "2026-09-18",
+  "nithin::Oracle::345521": "2026-09-18"
 }
