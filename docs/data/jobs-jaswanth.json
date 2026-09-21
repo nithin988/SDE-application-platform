@@ -1,27 +1,29 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-09-20T08:55:17.657016+00:00",
-  "total": 102,
+  "generated_at": "2026-09-21T09:26:33.706132+00:00",
+  "total": 101,
   "new_today": 2,
-  "errors": [],
+  "errors": [
+    "Anthropic: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=20)"
+  ],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10502055",
+      "id": "jaswanth::Amazon::10554323",
       "company": "Amazon",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "title": "Software Development Engineer, Amazon",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10502055/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-09-20",
+      "url": "https://www.amazon.jobs/en/jobs/10554323/software-development-engineer-amazon",
+      "first_seen": "2026-09-21",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10536816",
+      "id": "jaswanth::Amazon::10554342",
       "company": "Amazon",
-      "title": "Software Development Engineer II, Recipient Experience, Recipient Experience",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10536816/software-development-engineer-ii-recipient-experience-recipient-experience",
-      "first_seen": "2026-09-20",
+      "title": "Software Development Engineer, RBS Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10554342/software-development-engineer-rbs-tech",
+      "first_seen": "2026-09-21",
       "is_new": true
     },
     {
@@ -34,20 +36,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10530753",
-      "company": "Amazon",
-      "title": "Software Development Engineer",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10530753/software-development-engineer",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10530754",
       "company": "Amazon",
       "title": "Software Development Engineer",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10530754/software-development-engineer",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10530753",
+      "company": "Amazon",
+      "title": "Software Development Engineer",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10530753/software-development-engineer",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -142,15 +144,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10533778",
-      "company": "Amazon",
-      "title": "Software Development Engineer II",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10533778/software-development-engineer-ii",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10553121",
       "company": "Amazon",
       "title": "Software Development Engineer II",
@@ -202,6 +195,15 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10370961/software-development-engineer-ii-amazon-cross-border-tech",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10502055",
+      "company": "Amazon",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10502055/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-20",
       "is_new": false
     },
     {
@@ -385,15 +387,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10507894",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon Payments",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10507894/software-development-engineer-ii-amazon-payments",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10552119",
       "company": "Amazon",
       "title": "Software Development Engineer II, Amazon Pharmacy",
@@ -499,6 +492,15 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10544324/software-development-engineer-ii-india-healthcare",
       "first_seen": "2026-09-17",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10536816",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Recipient Experience, Recipient Experience",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10536816/software-development-engineer-ii-recipient-experience-recipient-experience",
+      "first_seen": "2026-09-20",
       "is_new": false
     },
     {
@@ -610,20 +612,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10497206",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon OpenSearch Service - Control Plane",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10497206/software-development-engineer-amazon-opensearch-service-control-plane",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10497203",
       "company": "Amazon",
       "title": "Software Development Engineer, Amazon OpenSearch Service - Control Plane",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10497203/software-development-engineer-amazon-opensearch-service-control-plane",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10497206",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon OpenSearch Service - Control Plane",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10497206/software-development-engineer-amazon-opensearch-service-control-plane",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -777,15 +779,6 @@
       "title": "Software Development Engineer, Inventory Authority Platform (IAP) ",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10435267/software-development-engineer-inventory-authority-platform-iap",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10435272",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Inventory Authority Platform (IAP) ",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10435272/software-development-engineer-inventory-authority-platform-iap",
       "first_seen": "2026-09-10",
       "is_new": false
     },
