@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:26:33.689025+00:00",
+  "generated_at": "2026-09-22T08:54:44.194586+00:00",
   "tracked": [
     {
       "name": "Affirm",
@@ -12,6 +12,10 @@
     {
       "name": "Amazon",
       "url": "https://www.amazon.jobs/en/search?base_query=software+development+engineer&loc_query=India"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://job-boards.greenhouse.io/anthropic"
     },
     {
       "name": "Asana",
@@ -126,10 +130,6 @@
     {
       "name": "Adobe",
       "url": "https://careers.adobe.com/us/en/search-results?keywords=software%20engineer&location=India"
-    },
-    {
-      "name": "Anthropic",
-      "url": "https://www.google.com/search?q=Anthropic%20careers%20software%20engineer%20India"
     },
     {
       "name": "Apple",
