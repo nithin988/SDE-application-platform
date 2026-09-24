@@ -1,63 +1,72 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-09-23T08:56:52.706768+00:00",
-  "total": 106,
-  "new_today": 6,
+  "generated_at": "2026-09-24T08:52:25.305222+00:00",
+  "total": 110,
+  "new_today": 7,
   "errors": [],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10556603",
+      "id": "jaswanth::Amazon::3151381",
       "company": "Amazon",
       "title": "Software Development Engineer II",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10556603/software-development-engineer-ii",
-      "first_seen": "2026-09-23",
+      "url": "https://www.amazon.jobs/en/jobs/3151381/software-development-engineer-ii",
+      "first_seen": "2026-09-24",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10556606",
+      "id": "jaswanth::Amazon::10554632",
       "company": "Amazon",
       "title": "Software Development Engineer II",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10556606/software-development-engineer-ii",
-      "first_seen": "2026-09-23",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10554632/software-development-engineer-ii",
+      "first_seen": "2026-09-24",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10556600",
+      "id": "jaswanth::Amazon::10557423",
       "company": "Amazon",
-      "title": "Software Development Engineer II",
+      "title": "Software Development Engineer, AFT External Fulfillment",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10556600/software-development-engineer-ii",
-      "first_seen": "2026-09-23",
+      "url": "https://www.amazon.jobs/en/jobs/10557423/software-development-engineer-aft-external-fulfillment",
+      "first_seen": "2026-09-24",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10557199",
+      "id": "jaswanth::Amazon::10491410",
       "company": "Amazon",
-      "title": "Software Development Engineer, AI Trust & Innovation",
+      "title": "Software Development Engineer, Ads Campaign Management ",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10557199/software-development-engineer-ai-trust-innovation",
-      "first_seen": "2026-09-23",
+      "url": "https://www.amazon.jobs/en/jobs/10491410/software-development-engineer-ads-campaign-management",
+      "first_seen": "2026-09-24",
       "is_new": true
     },
     {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289508",
-      "company": "Mastercard",
-      "title": "Software Engineer - Java Spring Boot",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289508",
-      "first_seen": "2026-09-23",
+      "id": "jaswanth::Amazon::10427781",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Time & Pay Innovation",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10427781/software-development-engineer-amazon-time-pay-innovation",
+      "first_seen": "2026-09-24",
       "is_new": true
     },
     {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-291535",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-291535",
-      "first_seen": "2026-09-23",
+      "id": "jaswanth::Amazon::10557759",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Tax Engine Services ",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10557759/software-development-engineer-tax-engine-services",
+      "first_seen": "2026-09-24",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Amazon::10557470",
+      "company": "Amazon",
+      "title": "Software Development Engineer, WW Services Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10557470/software-development-engineer-ww-services-tech",
+      "first_seen": "2026-09-24",
       "is_new": true
     },
     {
@@ -214,6 +223,24 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10556606",
+      "company": "Amazon",
+      "title": "Software Development Engineer II",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10556606/software-development-engineer-ii",
+      "first_seen": "2026-09-23",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10556603",
+      "company": "Amazon",
+      "title": "Software Development Engineer II",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10556603/software-development-engineer-ii",
+      "first_seen": "2026-09-23",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10553121",
       "company": "Amazon",
       "title": "Software Development Engineer II",
@@ -238,6 +265,15 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10555781/software-development-engineer-ii",
       "first_seen": "2026-09-22",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10556600",
+      "company": "Amazon",
+      "title": "Software Development Engineer II",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10556600/software-development-engineer-ii",
+      "first_seen": "2026-09-23",
       "is_new": false
     },
     {
@@ -502,20 +538,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10499456",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Fintelligence Workplace",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10499456/software-development-engineer-ii-fintelligence-workplace",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10499455",
       "company": "Amazon",
       "title": "Software Development Engineer II, Fintelligence Workplace",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10499455/software-development-engineer-ii-fintelligence-workplace",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10499456",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Fintelligence Workplace",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10499456/software-development-engineer-ii-fintelligence-workplace",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -601,6 +637,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10557199",
+      "company": "Amazon",
+      "title": "Software Development Engineer, AI Trust & Innovation",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10557199/software-development-engineer-ai-trust-innovation",
+      "first_seen": "2026-09-23",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10462377",
       "company": "Amazon",
       "title": "Software Development Engineer, Alexa Customers & Technology",
@@ -661,15 +706,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10497203/software-development-engineer-amazon-opensearch-service-control-plane",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10543018",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon OpenSearch Service - Control Plane",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10543018/software-development-engineer-amazon-opensearch-service-control-plane",
-      "first_seen": "2026-09-16",
       "is_new": false
     },
     {
@@ -916,12 +952,21 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Okta::7919336",
-      "company": "Okta",
-      "title": "Software Engineer (iOS)",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
-      "first_seen": "2026-09-10",
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289508",
+      "company": "Mastercard",
+      "title": "Software Engineer - Java Spring Boot",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289508",
+      "first_seen": "2026-09-23",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-291535",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-291535",
+      "first_seen": "2026-09-23",
       "is_new": false
     },
     {
@@ -931,15 +976,6 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Stripe::7618977",
-      "company": "Stripe",
-      "title": "Software Engineer, Core Technology",
-      "location": "Bangalore",
-      "url": "https://stripe.com/jobs/search?gh_jid=7618977",
-      "first_seen": "2026-09-22",
       "is_new": false
     },
     {
