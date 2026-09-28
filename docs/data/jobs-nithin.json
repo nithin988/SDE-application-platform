@@ -1,8 +1,8 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-09-27T09:40:31.422856+00:00",
-  "total": 4,
+  "generated_at": "2026-09-28T10:19:18.254978+00:00",
+  "total": 3,
   "new_today": 0,
   "errors": [],
   "jobs": [
@@ -31,15 +31,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10544314",
-      "company": "Amazon",
-      "title": "Software Development Engineer I, IESP Merchant Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10544314/software-development-engineer-i-iesp-merchant-tech",
-      "first_seen": "2026-09-18",
       "is_new": false
     }
   ]

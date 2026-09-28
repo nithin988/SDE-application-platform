@@ -1,72 +1,36 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-09-27T09:40:31.431222+00:00",
-  "total": 112,
-  "new_today": 7,
+  "generated_at": "2026-09-28T10:19:18.265245+00:00",
+  "total": 115,
+  "new_today": 3,
   "errors": [],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10561009",
+      "id": "jaswanth::Amazon::10561361",
       "company": "Amazon",
-      "title": "Software Development Engineer II, Timehub Experience",
+      "title": "Software Development Engineer II, Enterprise Engineering",
       "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10561009/software-development-engineer-ii-timehub-experience",
-      "first_seen": "2026-09-27",
+      "url": "https://www.amazon.jobs/en/jobs/10561361/software-development-engineer-ii-enterprise-engineering",
+      "first_seen": "2026-09-28",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10561002",
+      "id": "jaswanth::Amazon::10561347",
       "company": "Amazon",
-      "title": "Software Development Engineer, Time & Pay Innovation",
+      "title": "Software Development Engineer II, Enterprise Engineering",
       "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10561002/software-development-engineer-time-pay-innovation",
-      "first_seen": "2026-09-27",
+      "url": "https://www.amazon.jobs/en/jobs/10561347/software-development-engineer-ii-enterprise-engineering",
+      "first_seen": "2026-09-28",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10561004",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10561004/software-development-engineer-time-pay-innovation",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10561005",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10561005/software-development-engineer-time-pay-innovation",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10561001",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10561001/software-development-engineer-time-pay-innovation",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10561007",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10561007/software-development-engineer-time-pay-innovation",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10561003",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10561003/software-development-engineer-time-pay-innovation",
-      "first_seen": "2026-09-27",
+      "id": "jaswanth::Mastercard::/job/Pune-India/Platform-Engineer-II_R-288632",
+      "company": "Mastercard",
+      "title": "Platform Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Platform-Engineer-II_R-288632",
+      "first_seen": "2026-09-28",
       "is_new": true
     },
     {
@@ -601,6 +565,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10561009",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Timehub Experience",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10561009/software-development-engineer-ii-timehub-experience",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10509822",
       "company": "Amazon",
       "title": "Software Development Engineer, AFT External Fulfillment",
@@ -949,6 +922,60 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10557759/software-development-engineer-tax-engine-services",
       "first_seen": "2026-09-24",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10561002",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10561002/software-development-engineer-time-pay-innovation",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10561004",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10561004/software-development-engineer-time-pay-innovation",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10561001",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10561001/software-development-engineer-time-pay-innovation",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10561005",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10561005/software-development-engineer-time-pay-innovation",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10561007",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10561007/software-development-engineer-time-pay-innovation",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10561003",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10561003/software-development-engineer-time-pay-innovation",
+      "first_seen": "2026-09-27",
       "is_new": false
     },
     {
