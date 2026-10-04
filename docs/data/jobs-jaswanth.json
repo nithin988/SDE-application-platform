@@ -1,20 +1,11 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-10-03T09:32:00.347888+00:00",
-  "total": 120,
-  "new_today": 1,
+  "generated_at": "2026-10-04T10:18:55.789324+00:00",
+  "total": 121,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "jaswanth::Amazon::10565715",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10565715/software-development-engineer-ii-amazon-finauto-travel-events",
-      "first_seen": "2026-10-03",
-      "is_new": true
-    },
     {
       "id": "jaswanth::Amazon::10534666",
       "company": "Amazon",
@@ -250,6 +241,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10502055",
+      "company": "Amazon",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10502055/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::3120411",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Pay",
@@ -346,6 +346,15 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10565718/software-development-engineer-ii-amazon-finauto-travel-events",
       "first_seen": "2026-10-01",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10565715",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10565715/software-development-engineer-ii-amazon-finauto-travel-events",
+      "first_seen": "2026-10-03",
       "is_new": false
     },
     {
@@ -1042,21 +1051,21 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Databricks::8829029002",
+      "company": "Databricks",
+      "title": "IT Software Engineer, Infrastructure",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+      "first_seen": "2026-09-30",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Elastic::8237463",
       "company": "Elastic",
       "title": "Platform Engineer - Kubernetes",
       "location": "Bangalore, India",
       "url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463",
       "first_seen": "2026-09-29",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Job-Title-Software-Engineer-II_R-291718",
-      "company": "Mastercard",
-      "title": "Job Title Software Engineer II",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Job-Title-Software-Engineer-II_R-291718",
-      "first_seen": "2026-10-02",
       "is_new": false
     },
     {
