@@ -1,20 +1,11 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-10-13T11:17:34.693019+00:00",
-  "total": 4,
-  "new_today": 1,
+  "generated_at": "2026-10-14T09:09:19.117767+00:00",
+  "total": 2,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-292435",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-292435",
-      "first_seen": "2026-10-13",
-      "is_new": true
-    },
     {
       "id": "nithin::Amazon::10511883",
       "company": "Amazon",
@@ -31,15 +22,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I---Java-Backend_R-290797",
-      "company": "Mastercard",
-      "title": "Software Engineer I - Java Backend",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Backend_R-290797",
-      "first_seen": "2026-10-12",
       "is_new": false
     }
   ]
