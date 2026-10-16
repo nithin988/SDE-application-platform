@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T08:42:27.834492+00:00",
+  "generated_at": "2026-10-16T08:37:17.335254+00:00",
   "tracked": [
     {
       "name": "Affirm",
@@ -82,10 +82,6 @@
       "url": "https://job-boards.greenhouse.io/okta"
     },
     {
-      "name": "Oracle",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions"
-    },
-    {
       "name": "PagerDuty",
       "url": "https://job-boards.greenhouse.io/pagerduty"
     },
@@ -162,6 +158,10 @@
     {
       "name": "Microsoft",
       "url": "https://jobs.careers.microsoft.com/global/en/search?q=Software%20Engineer&lc=India"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://www.google.com/search?q=Oracle%20careers%20software%20engineer%20India"
     },
     {
       "name": "PhonePe",
