@@ -1,21 +1,23 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-10-16T08:37:17.345818+00:00",
-  "total": 9,
-  "new_today": 7,
+  "generated_at": "2026-10-17T08:08:40.717692+00:00",
+  "total": 8,
+  "new_today": 0,
   "errors": [
-    "Oracle: HTTPSConnectionPool(host='eeho.fa.us2.oraclecloud.com', port=443): Read timed out. (read timeout=20)"
+    "Salesforce: Expecting value: line 1 column 1 (char 0)",
+    "Nvidia: Expecting value: line 1 column 1 (char 0)",
+    "Mastercard: Expecting value: line 1 column 1 (char 0)"
   ],
   "jobs": [
     {
-      "id": "nithin::Amazon::10580007",
+      "id": "nithin::Amazon::10511883",
       "company": "Amazon",
-      "title": "Software Development Engineer I",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580007/software-development-engineer-i",
-      "first_seen": "2026-10-16",
-      "is_new": true
+      "title": "Software Development Engineer -I, IESP Merchant Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
+      "first_seen": "2026-09-10",
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10580014",
@@ -24,7 +26,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
       "first_seen": "2026-10-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10580013",
@@ -33,7 +35,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580013/software-development-engineer-i",
       "first_seen": "2026-10-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10580011",
@@ -42,7 +44,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580011/software-development-engineer-i",
       "first_seen": "2026-10-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10580008",
@@ -51,7 +53,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
       "first_seen": "2026-10-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10580010",
@@ -60,7 +62,7 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc",
       "first_seen": "2026-10-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "nithin::Amazon::10580009",
@@ -69,15 +71,6 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
       "first_seen": "2026-10-16",
-      "is_new": true
-    },
-    {
-      "id": "nithin::Amazon::10511883",
-      "company": "Amazon",
-      "title": "Software Development Engineer -I, IESP Merchant Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
-      "first_seen": "2026-09-10",
       "is_new": false
     },
     {

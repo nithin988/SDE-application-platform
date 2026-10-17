@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:37:17.335254+00:00",
+  "generated_at": "2026-10-17T08:08:40.710578+00:00",
   "tracked": [
     {
       "name": "Affirm",
@@ -66,20 +66,16 @@
       "url": "https://job-boards.greenhouse.io/gusto"
     },
     {
-      "name": "Mastercard",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
-    },
-    {
       "name": "MongoDB",
       "url": "https://job-boards.greenhouse.io/mongodb"
     },
     {
-      "name": "Nvidia",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
-    },
-    {
       "name": "Okta",
       "url": "https://job-boards.greenhouse.io/okta"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions"
     },
     {
       "name": "PagerDuty",
@@ -96,10 +92,6 @@
     {
       "name": "Rubrik",
       "url": "https://job-boards.greenhouse.io/rubrik"
-    },
-    {
-      "name": "Salesforce",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
     },
     {
       "name": "Samsara",
@@ -156,12 +148,16 @@
       "url": "https://jobs.intuit.com/search-jobs/India"
     },
     {
+      "name": "Mastercard",
+      "url": "https://www.google.com/search?q=Mastercard%20careers%20software%20engineer%20India"
+    },
+    {
       "name": "Microsoft",
       "url": "https://jobs.careers.microsoft.com/global/en/search?q=Software%20Engineer&lc=India"
     },
     {
-      "name": "Oracle",
-      "url": "https://www.google.com/search?q=Oracle%20careers%20software%20engineer%20India"
+      "name": "Nvidia",
+      "url": "https://www.google.com/search?q=Nvidia%20careers%20software%20engineer%20India"
     },
     {
       "name": "PhonePe",
@@ -182,6 +178,10 @@
     {
       "name": "Rippling",
       "url": "https://www.google.com/search?q=Rippling%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "Salesforce",
+      "url": "https://www.google.com/search?q=Salesforce%20careers%20software%20engineer%20India"
     },
     {
       "name": "ServiceNow",
