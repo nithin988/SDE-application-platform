@@ -1,24 +1,11 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-10-17T08:08:40.724120+00:00",
-  "total": 118,
-  "new_today": 1,
-  "errors": [
-    "Salesforce: Expecting value: line 1 column 1 (char 0)",
-    "Nvidia: Expecting value: line 1 column 1 (char 0)",
-    "Mastercard: Expecting value: line 1 column 1 (char 0)"
-  ],
+  "generated_at": "2026-10-18T08:25:46.182117+00:00",
+  "total": 119,
+  "new_today": 0,
+  "errors": [],
   "jobs": [
-    {
-      "id": "jaswanth::Amazon::10581433",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Your Orders & Federation Platform",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10581433/software-development-engineer-your-orders-federation-platform",
-      "first_seen": "2026-10-17",
-      "is_new": true
-    },
     {
       "id": "jaswanth::Amazon::10575903",
       "company": "Amazon",
@@ -524,15 +511,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10562897",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Timehub Pay Extract",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10562897/software-development-engineer-ii-timehub-pay-extract",
-      "first_seen": "2026-09-29",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10562899",
       "company": "Amazon",
       "title": "Software Development Engineer II, Timehub Pay Extract",
@@ -965,6 +943,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10581433",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Your Orders & Federation Platform",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10581433/software-development-engineer-your-orders-federation-platform",
+      "first_seen": "2026-10-17",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10573207",
       "company": "Amazon",
       "title": "Software Development Engineer-II, Amazon Smart Vehicles",
@@ -1034,6 +1021,24 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
       "first_seen": "2026-10-07",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Rubrik::8256407",
+      "company": "Rubrik",
+      "title": "Software Engineer- SaaS O365",
+      "location": "Bangalore ",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
+      "first_seen": "2026-10-06",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Salesforce::/job/India---Hyderabad/Systems-Engineer-Forcecom_JR364392",
+      "company": "Salesforce",
+      "title": "Systems Engineer-Force.com",
+      "location": "India - Hyderabad",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer-Forcecom_JR364392",
+      "first_seen": "2026-10-16",
       "is_new": false
     },
     {
