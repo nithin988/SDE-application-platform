@@ -1,10 +1,12 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-10-18T08:25:46.182117+00:00",
-  "total": 119,
+  "generated_at": "2026-10-19T09:26:40.228969+00:00",
+  "total": 120,
   "new_today": 0,
-  "errors": [],
+  "errors": [
+    "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+  ],
   "jobs": [
     {
       "id": "jaswanth::Amazon::10575903",
@@ -160,6 +162,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10555781",
+      "company": "Amazon",
+      "title": "Software Development Engineer II",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10555781/software-development-engineer-ii",
+      "first_seen": "2026-09-22",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10576171",
       "company": "Amazon",
       "title": "Software Development Engineer II",
@@ -193,15 +204,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10556600/software-development-engineer-ii",
       "first_seen": "2026-09-23",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10555781",
-      "company": "Amazon",
-      "title": "Software Development Engineer II",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10555781/software-development-engineer-ii",
-      "first_seen": "2026-09-22",
       "is_new": false
     },
     {
@@ -313,20 +315,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10502808",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10502808/software-development-engineer-ii-amazon",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::3172711",
       "company": "Amazon",
       "title": "Software Development Engineer II, Amazon",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/3172711/software-development-engineer-ii-amazon",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10502808",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Amazon",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10502808/software-development-engineer-ii-amazon",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -427,6 +429,15 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10575464/software-development-engineer-ii-fba-placement",
       "first_seen": "2026-10-12",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10411242",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, FGBS",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10411242/software-development-engineer-ii-fgbs",
+      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
@@ -817,20 +828,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10516674",
-      "company": "Amazon",
-      "title": "Software Development Engineer, PXT Case Management System",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10516674/software-development-engineer-pxt-case-management-system",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10523762",
       "company": "Amazon",
       "title": "Software Development Engineer, PXT Case Management System",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10523762/software-development-engineer-pxt-case-management-system",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10516674",
+      "company": "Amazon",
+      "title": "Software Development Engineer, PXT Case Management System",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10516674/software-development-engineer-pxt-case-management-system",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -880,21 +891,21 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10557759",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Tax Engine Services ",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10557759/software-development-engineer-tax-engine-services",
-      "first_seen": "2026-09-24",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10478694",
       "company": "Amazon",
       "title": "Software Development Engineer, Tax Engine Services ",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10478694/software-development-engineer-tax-engine-services",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10557759",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Tax Engine Services ",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10557759/software-development-engineer-tax-engine-services",
+      "first_seen": "2026-09-24",
       "is_new": false
     },
     {
@@ -1006,6 +1017,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-289618",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-289618",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Okta::8056119",
       "company": "Okta",
       "title": "Software Engineer, Professional Services R&D",
@@ -1030,15 +1050,6 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
       "first_seen": "2026-10-06",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Salesforce::/job/India---Hyderabad/Systems-Engineer-Forcecom_JR364392",
-      "company": "Salesforce",
-      "title": "Systems Engineer-Force.com",
-      "location": "India - Hyderabad",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer-Forcecom_JR364392",
-      "first_seen": "2026-10-16",
       "is_new": false
     },
     {
