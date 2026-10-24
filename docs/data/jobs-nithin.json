@@ -1,20 +1,11 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-10-23T08:57:11.813836+00:00",
+  "generated_at": "2026-10-24T08:30:56.380541+00:00",
   "total": 9,
-  "new_today": 1,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
-      "company": "Mastercard",
-      "title": "Software Engineer I - Java Full Stack React/Angular",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
-      "first_seen": "2026-10-23",
-      "is_new": true
-    },
     {
       "id": "nithin::Amazon::10511883",
       "company": "Amazon",
@@ -85,6 +76,15 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
+      "company": "Mastercard",
+      "title": "Software Engineer I - Java Full Stack React/Angular",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
+      "first_seen": "2026-10-23",
       "is_new": false
     }
   ]
