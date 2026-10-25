@@ -1,56 +1,11 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-10-24T08:30:56.385562+00:00",
-  "total": 132,
-  "new_today": 5,
+  "generated_at": "2026-10-25T08:49:48.994542+00:00",
+  "total": 131,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "jaswanth::Amazon::10587759",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon Photos",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10587759/software-development-engineer-amazon-photos",
-      "first_seen": "2026-10-24",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10580361",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Prime Video Experience Tech ",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580361/software-development-engineer-prime-video-experience-tech",
-      "first_seen": "2026-10-24",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-293529",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293529",
-      "first_seen": "2026-10-24",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II---Java-Full-stack-and-AI--with-Python-_R-294262",
-      "company": "Mastercard",
-      "title": "Software Engineer II - Java Full stack and AI (with Python)",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-stack-and-AI--with-Python-_R-294262",
-      "first_seen": "2026-10-24",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II---Java-Full-stack-with-AI_R-294118",
-      "company": "Mastercard",
-      "title": "Software Engineer II - Java Full stack with AI",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-stack-with-AI_R-294118",
-      "first_seen": "2026-10-24",
-      "is_new": true
-    },
     {
       "id": "jaswanth::Airbnb::8312713",
       "company": "Airbnb",
@@ -169,21 +124,21 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::3151212",
-      "company": "Amazon",
-      "title": "Software Development Engineer - II",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/3151212/software-development-engineer-ii",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10570107",
       "company": "Amazon",
       "title": "Software Development Engineer - II",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10570107/software-development-engineer-ii",
       "first_seen": "2026-10-06",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::3151212",
+      "company": "Amazon",
+      "title": "Software Development Engineer - II",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/3151212/software-development-engineer-ii",
+      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
@@ -268,6 +223,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10497918",
+      "company": "Amazon",
+      "title": "Software Development Engineer II",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10497918/software-development-engineer-ii",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10553121",
       "company": "Amazon",
       "title": "Software Development Engineer II",
@@ -300,15 +264,6 @@
       "title": "Software Development Engineer II",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10419476/software-development-engineer-ii",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10497918",
-      "company": "Amazon",
-      "title": "Software Development Engineer II",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10497918/software-development-engineer-ii",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -610,21 +565,21 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10509821",
-      "company": "Amazon",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10509821/software-development-engineer-aft-external-fulfillment",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10582690",
       "company": "Amazon",
       "title": "Software Development Engineer, AFT External Fulfillment",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10582690/software-development-engineer-aft-external-fulfillment",
       "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10509821",
+      "company": "Amazon",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10509821/software-development-engineer-aft-external-fulfillment",
+      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
@@ -724,6 +679,15 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10499858/software-development-engineer-amazon-fulfilment-tech",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10587759",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Photos",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10587759/software-development-engineer-amazon-photos",
+      "first_seen": "2026-10-24",
       "is_new": false
     },
     {
@@ -895,6 +859,15 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10516674/software-development-engineer-pxt-case-management-system",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10580361",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Prime Video Experience Tech ",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10580361/software-development-engineer-prime-video-experience-tech",
+      "first_seen": "2026-10-24",
       "is_new": false
     },
     {
@@ -1123,6 +1096,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-293529",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293529",
+      "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-294296-1",
       "company": "Mastercard",
       "title": "Software Engineer II",
@@ -1132,20 +1114,29 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II---Java-Full-stack-and-AI--with-Python-_R-294262",
+      "company": "Mastercard",
+      "title": "Software Engineer II - Java Full stack and AI (with Python)",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-stack-and-AI--with-Python-_R-294262",
+      "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II---Java-Full-stack-with-AI_R-294118",
+      "company": "Mastercard",
+      "title": "Software Engineer II - Java Full stack with AI",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-stack-with-AI_R-294118",
+      "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II---Data---AI-Platform_R-294109-1",
       "company": "Mastercard",
       "title": "Software Engineer II | Data & AI Platform",
       "location": "Pune, India",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Data---AI-Platform_R-294109-1",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Oracle::348113",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "BENGALURU, KARNATAKA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348113",
       "first_seen": "2026-10-23",
       "is_new": false
     },
