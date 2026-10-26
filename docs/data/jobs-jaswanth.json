@@ -1,11 +1,38 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-10-25T08:49:48.994542+00:00",
-  "total": 131,
-  "new_today": 0,
+  "generated_at": "2026-10-26T09:30:26.449373+00:00",
+  "total": 137,
+  "new_today": 3,
   "errors": [],
   "jobs": [
+    {
+      "id": "jaswanth::Oracle::347786",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/347786",
+      "first_seen": "2026-10-26",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Oracle::348226",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348226",
+      "first_seen": "2026-10-26",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Oracle::348227",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348227",
+      "first_seen": "2026-10-26",
+      "is_new": true
+    },
     {
       "id": "jaswanth::Airbnb::8312713",
       "company": "Airbnb",
@@ -274,6 +301,24 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10488199/software-development-engineer-ii-amazon-cross-border-tech",
       "first_seen": "2026-10-01",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10535856",
+      "company": "Amazon",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10535856/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-11",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10374503",
+      "company": "Amazon",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10374503/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
@@ -1096,21 +1141,21 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-289618",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "Pune, India",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-289618",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-293529",
       "company": "Mastercard",
       "title": "Software Engineer II",
       "location": "Pune, India",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293529",
       "first_seen": "2026-10-24",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Mastercard::/job/Pune-India/Software-Engineer-II_R-294296-1",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-294296-1",
-      "first_seen": "2026-10-23",
       "is_new": false
     },
     {
@@ -1138,6 +1183,15 @@
       "location": "Pune, India",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Data---AI-Platform_R-294109-1",
       "first_seen": "2026-10-23",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Oracle::346904",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346904",
+      "first_seen": "2026-10-20",
       "is_new": false
     },
     {
