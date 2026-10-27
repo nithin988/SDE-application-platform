@@ -1,11 +1,20 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-10-26T09:30:26.440195+00:00",
-  "total": 9,
-  "new_today": 0,
+  "generated_at": "2026-10-27T09:27:37.577138+00:00",
+  "total": 10,
+  "new_today": 1,
   "errors": [],
   "jobs": [
+    {
+      "id": "nithin::Oracle::344317",
+      "company": "Oracle",
+      "title": "Application Software Engineer 1",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344317",
+      "first_seen": "2026-10-27",
+      "is_new": true
+    },
     {
       "id": "nithin::Amazon::10511883",
       "company": "Amazon",
@@ -79,12 +88,12 @@
       "is_new": false
     },
     {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
+      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I-1_R-293576-1",
       "company": "Mastercard",
-      "title": "Software Engineer I - Java Full Stack React/Angular",
+      "title": "Software Engineer I-1",
       "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
-      "first_seen": "2026-10-23",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1",
+      "first_seen": "2026-10-18",
       "is_new": false
     }
   ]
