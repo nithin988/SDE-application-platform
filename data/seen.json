@@ -245,6 +245,7 @@
   "jaswanth::Databricks::8829029002": "2026-09-30",
   "jaswanth::Elastic::8237463": "2026-09-29",
   "jaswanth::GitLab::8861748002": "2026-10-10",
+  "jaswanth::GitLab::8916232002": "2026-10-28",
   "jaswanth::Mastercard::/job/Navi-Mumbai-India-Finicity/Software-Engineer-2_R-291365": "2026-10-01",
   "jaswanth::Mastercard::/job/Pune-India/Job-Title-Software-Engineer-II_R-291718": "2026-10-02",
   "jaswanth::Mastercard::/job/Pune-India/Lead-Software-Engineer_R-286355": "2026-09-19",
@@ -299,8 +300,14 @@
   "jaswanth::Oracle::348215": "2026-10-27",
   "jaswanth::Oracle::348216": "2026-10-27",
   "jaswanth::Oracle::348217": "2026-10-27",
+  "jaswanth::Oracle::348219": "2026-10-28",
   "jaswanth::Oracle::348226": "2026-10-26",
   "jaswanth::Oracle::348227": "2026-10-26",
+  "jaswanth::Oracle::348302": "2026-10-28",
+  "jaswanth::Oracle::348307": "2026-10-28",
+  "jaswanth::Oracle::348618": "2026-10-28",
+  "jaswanth::Oracle::348619": "2026-10-28",
+  "jaswanth::Oracle::348627": "2026-10-28",
   "jaswanth::Rubrik::8121053": "2026-09-10",
   "jaswanth::Rubrik::8256407": "2026-10-06",
   "jaswanth::Rubrik::8258200": "2026-10-07",
@@ -340,5 +347,6 @@
   "nithin::Mastercard::/job/Pune-India/Software-Engineer-I_R-292435": "2026-10-13",
   "nithin::Oracle::344317": "2026-10-27",
   "nithin::Oracle::345514": "2026-09-18",
-  "nithin::Oracle::345521": "2026-09-18"
+  "nithin::Oracle::345521": "2026-09-18",
+  "nithin::Stripe::8130876": "2026-10-28"
 }

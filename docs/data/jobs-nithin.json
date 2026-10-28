@@ -1,18 +1,18 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-10-27T09:27:37.577138+00:00",
+  "generated_at": "2026-10-28T10:10:14.700421+00:00",
   "total": 10,
   "new_today": 1,
   "errors": [],
   "jobs": [
     {
-      "id": "nithin::Oracle::344317",
-      "company": "Oracle",
-      "title": "Application Software Engineer 1",
-      "location": "BENGALURU, KARNATAKA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344317",
-      "first_seen": "2026-10-27",
+      "id": "nithin::Stripe::8130876",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "location": "Bangalore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+      "first_seen": "2026-10-28",
       "is_new": true
     },
     {
@@ -30,6 +30,15 @@
       "title": "Software Development Engineer I",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
+      "first_seen": "2026-10-16",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10580008",
+      "company": "Amazon",
+      "title": "Software Development Engineer I",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
       "first_seen": "2026-10-16",
       "is_new": false
     },
@@ -52,11 +61,11 @@
       "is_new": false
     },
     {
-      "id": "nithin::Amazon::10580008",
+      "id": "nithin::Amazon::10580009",
       "company": "Amazon",
-      "title": "Software Development Engineer I",
+      "title": "Software Development Engineer I FTC",
       "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
+      "url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
       "first_seen": "2026-10-16",
       "is_new": false
     },
@@ -70,15 +79,6 @@
       "is_new": false
     },
     {
-      "id": "nithin::Amazon::10580009",
-      "company": "Amazon",
-      "title": "Software Development Engineer I FTC",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
-      "first_seen": "2026-10-16",
-      "is_new": false
-    },
-    {
       "id": "nithin::Amazon::10432823",
       "company": "Amazon",
       "title": "Software Development Engineer I, FinOps FP&A",
@@ -88,12 +88,12 @@
       "is_new": false
     },
     {
-      "id": "nithin::Mastercard::/job/Pune-India/Software-Engineer-I-1_R-293576-1",
-      "company": "Mastercard",
-      "title": "Software Engineer I-1",
-      "location": "Pune, India",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1",
-      "first_seen": "2026-10-18",
+      "id": "nithin::Oracle::344317",
+      "company": "Oracle",
+      "title": "Application Software Engineer 1",
+      "location": "BENGALURU, KARNATAKA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344317",
+      "first_seen": "2026-10-27",
       "is_new": false
     }
   ]
