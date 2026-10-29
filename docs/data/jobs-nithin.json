@@ -1,20 +1,11 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-10-28T10:10:14.700421+00:00",
+  "generated_at": "2026-10-29T10:35:09.915523+00:00",
   "total": 10,
-  "new_today": 1,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "nithin::Stripe::8130876",
-      "company": "Stripe",
-      "title": "Software Engineer, New Grad",
-      "location": "Bangalore",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-      "first_seen": "2026-10-28",
-      "is_new": true
-    },
     {
       "id": "nithin::Amazon::10511883",
       "company": "Amazon",
@@ -94,6 +85,15 @@
       "location": "BENGALURU, KARNATAKA, India",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344317",
       "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Stripe::8130876",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "location": "Bangalore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+      "first_seen": "2026-10-28",
       "is_new": false
     }
   ]
