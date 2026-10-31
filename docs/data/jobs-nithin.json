@@ -1,8 +1,8 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-10-30T10:35:33.994269+00:00",
-  "total": 10,
+  "generated_at": "2026-10-31T10:03:38.433965+00:00",
+  "total": 9,
   "new_today": 0,
   "errors": [],
   "jobs": [
@@ -76,15 +76,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Oracle::344317",
-      "company": "Oracle",
-      "title": "Application Software Engineer 1",
-      "location": "BENGALURU, KARNATAKA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344317",
-      "first_seen": "2026-10-27",
       "is_new": false
     },
     {
