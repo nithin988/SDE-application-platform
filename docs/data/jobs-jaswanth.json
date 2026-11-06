@@ -1,36 +1,27 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-05T11:44:06.908736+00:00",
-  "total": 119,
-  "new_today": 3,
+  "generated_at": "2026-11-06T11:42:01.639590+00:00",
+  "total": 117,
+  "new_today": 2,
   "errors": [],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10596462",
+      "id": "jaswanth::Amazon::10598377",
       "company": "Amazon",
-      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "title": "Software Development Engineer II, Last Mile",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10596462/software-development-engineer-ii-alexa-connectivity-devices",
-      "first_seen": "2026-11-05",
+      "url": "https://www.amazon.jobs/en/jobs/10598377/software-development-engineer-ii-last-mile",
+      "first_seen": "2026-11-06",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10596464",
+      "id": "jaswanth::Amazon::10597850",
       "company": "Amazon",
-      "title": "Software Development Engineer II, Alexa Connectivity Devices",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10596464/software-development-engineer-ii-alexa-connectivity-devices",
-      "first_seen": "2026-11-05",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10596460",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Alexa Connectivity Devices",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10596460/software-development-engineer-ii-alexa-connectivity-devices",
-      "first_seen": "2026-11-05",
+      "title": "Software Development Engineer, DSP Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10597850/software-development-engineer-dsp-tech",
+      "first_seen": "2026-11-06",
       "is_new": true
     },
     {
@@ -187,6 +178,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10555781",
+      "company": "Amazon",
+      "title": "Software Development Engineer II",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10555781/software-development-engineer-ii",
+      "first_seen": "2026-09-22",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10553121",
       "company": "Amazon",
       "title": "Software Development Engineer II",
@@ -211,15 +211,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10419476/software-development-engineer-ii",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10555781",
-      "company": "Amazon",
-      "title": "Software Development Engineer II",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10555781/software-development-engineer-ii",
-      "first_seen": "2026-09-22",
       "is_new": false
     },
     {
@@ -340,6 +331,33 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10596462",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10596462/software-development-engineer-ii-alexa-connectivity-devices",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10596464",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10596464/software-development-engineer-ii-alexa-connectivity-devices",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10596460",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10596460/software-development-engineer-ii-alexa-connectivity-devices",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10403403",
       "company": "Amazon",
       "title": "Software Development Engineer II, Amazon",
@@ -412,15 +430,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10538347",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon Now (Tez)",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10538347/software-development-engineer-ii-amazon-now-tez",
-      "first_seen": "2026-09-14",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::3156875",
       "company": "Amazon",
       "title": "Software Development Engineer II, Direct Fulfilment",
@@ -436,15 +445,6 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10411242/software-development-engineer-ii-fgbs",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10592159",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, FinTech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10592159/software-development-engineer-ii-fintech",
-      "first_seen": "2026-10-30",
       "is_new": false
     },
     {
@@ -502,20 +502,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10585995",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Prime Benefits",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10585995/software-development-engineer-ii-prime-benefits",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10585996",
       "company": "Amazon",
       "title": "Software Development Engineer II, Prime Benefits",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10585996/software-development-engineer-ii-prime-benefits",
+      "first_seen": "2026-10-22",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10585995",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Prime Benefits",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10585995/software-development-engineer-ii-prime-benefits",
       "first_seen": "2026-10-22",
       "is_new": false
     },
@@ -601,15 +601,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10589203",
-      "company": "Amazon",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10589203/software-development-engineer-aft-external-fulfillment",
-      "first_seen": "2026-10-27",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10582690",
       "company": "Amazon",
       "title": "Software Development Engineer, AFT External Fulfillment",
@@ -643,15 +634,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10570699/software-development-engineer-aws-dynamodb",
       "first_seen": "2026-10-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10462377",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Alexa Customers & Technology",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10462377/software-development-engineer-alexa-customers-technology",
-      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
@@ -979,15 +961,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10408604",
-      "company": "Amazon",
-      "title": "Systems Development Engineer - II, Grocery Management Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10408604/systems-development-engineer-ii-grocery-management-tech",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Coinbase::8165441",
       "company": "Coinbase",
       "title": "Software Engineer, Security Platform",
@@ -1024,12 +997,12 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Oracle::348113",
+      "id": "jaswanth::Oracle::348618",
       "company": "Oracle",
       "title": "Platform Software Engineer 2",
-      "location": "BENGALURU, KARNATAKA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348113",
-      "first_seen": "2026-10-23",
+      "location": "India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348618",
+      "first_seen": "2026-10-28",
       "is_new": false
     },
     {
@@ -1066,6 +1039,15 @@
       "location": "Bangalore",
       "url": "https://stripe.com/jobs/search?gh_jid=8209970",
       "first_seen": "2026-09-22",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Twilio::8319386",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
+      "first_seen": "2026-11-02",
       "is_new": false
     },
     {
