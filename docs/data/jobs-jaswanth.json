@@ -1,29 +1,11 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-06T11:42:01.639590+00:00",
+  "generated_at": "2026-11-07T10:48:20.132676+00:00",
   "total": 117,
-  "new_today": 2,
+  "new_today": 0,
   "errors": [],
   "jobs": [
-    {
-      "id": "jaswanth::Amazon::10598377",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Last Mile",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10598377/software-development-engineer-ii-last-mile",
-      "first_seen": "2026-11-06",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10597850",
-      "company": "Amazon",
-      "title": "Software Development Engineer, DSP Tech",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10597850/software-development-engineer-dsp-tech",
-      "first_seen": "2026-11-06",
-      "is_new": true
-    },
     {
       "id": "jaswanth::Airbnb::8312713",
       "company": "Airbnb",
@@ -493,6 +475,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10598377",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Last Mile",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10598377/software-development-engineer-ii-last-mile",
+      "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10576165",
       "company": "Amazon",
       "title": "Software Development Engineer II, Payroll Tech - Xylem",
@@ -583,20 +574,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10589205",
-      "company": "Amazon",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10589205/software-development-engineer-aft-external-fulfillment",
-      "first_seen": "2026-10-27",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10589217",
       "company": "Amazon",
       "title": "Software Development Engineer, AFT External Fulfillment",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10589217/software-development-engineer-aft-external-fulfillment",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10589205",
+      "company": "Amazon",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10589205/software-development-engineer-aft-external-fulfillment",
       "first_seen": "2026-10-27",
       "is_new": false
     },
@@ -733,6 +724,15 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10375504/software-development-engineer-buyer-safety-experience",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10597850",
+      "company": "Amazon",
+      "title": "Software Development Engineer, DSP Tech",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10597850/software-development-engineer-dsp-tech",
+      "first_seen": "2026-11-06",
       "is_new": false
     },
     {
