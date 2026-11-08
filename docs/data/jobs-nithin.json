@@ -1,8 +1,8 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-11-07T10:48:20.123472+00:00",
-  "total": 9,
+  "generated_at": "2026-11-08T10:54:28.376708+00:00",
+  "total": 8,
   "new_today": 0,
   "errors": [],
   "jobs": [
@@ -30,15 +30,6 @@
       "title": "Software Development Engineer I",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
-      "first_seen": "2026-10-16",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10580013",
-      "company": "Amazon",
-      "title": "Software Development Engineer I",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580013/software-development-engineer-i",
       "first_seen": "2026-10-16",
       "is_new": false
     },

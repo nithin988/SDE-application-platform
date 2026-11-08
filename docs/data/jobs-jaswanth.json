@@ -1,7 +1,7 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-07T10:48:20.132676+00:00",
+  "generated_at": "2026-11-08T10:54:28.386100+00:00",
   "total": 117,
   "new_today": 0,
   "errors": [],
@@ -493,20 +493,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10585996",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Prime Benefits",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10585996/software-development-engineer-ii-prime-benefits",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10585995",
       "company": "Amazon",
       "title": "Software Development Engineer II, Prime Benefits",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10585995/software-development-engineer-ii-prime-benefits",
+      "first_seen": "2026-10-22",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10585996",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Prime Benefits",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10585996/software-development-engineer-ii-prime-benefits",
       "first_seen": "2026-10-22",
       "is_new": false
     },
@@ -574,20 +574,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10589217",
-      "company": "Amazon",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10589217/software-development-engineer-aft-external-fulfillment",
-      "first_seen": "2026-10-27",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10589205",
       "company": "Amazon",
       "title": "Software Development Engineer, AFT External Fulfillment",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10589205/software-development-engineer-aft-external-fulfillment",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10589217",
+      "company": "Amazon",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10589217/software-development-engineer-aft-external-fulfillment",
       "first_seen": "2026-10-27",
       "is_new": false
     },
