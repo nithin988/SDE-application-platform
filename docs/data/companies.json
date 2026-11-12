@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:35:30.880627+00:00",
+  "generated_at": "2026-11-12T11:59:50.206763+00:00",
   "tracked": [
     {
       "name": "Affirm",
@@ -8,10 +8,6 @@
     {
       "name": "Airbnb",
       "url": "https://job-boards.greenhouse.io/airbnb"
-    },
-    {
-      "name": "Amazon",
-      "url": "https://www.amazon.jobs/en/search?base_query=software+development+engineer&loc_query=India"
     },
     {
       "name": "Anthropic",
@@ -130,6 +126,10 @@
     {
       "name": "Adobe",
       "url": "https://careers.adobe.com/us/en/search-results?keywords=software%20engineer&location=India"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://www.google.com/search?q=Amazon%20careers%20software%20engineer%20India"
     },
     {
       "name": "Apple",

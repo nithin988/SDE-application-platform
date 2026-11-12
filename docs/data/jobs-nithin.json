@@ -1,74 +1,13 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-11-11T11:35:30.891591+00:00",
-  "total": 8,
+  "generated_at": "2026-11-12T11:59:50.213084+00:00",
+  "total": 1,
   "new_today": 0,
-  "errors": [],
+  "errors": [
+    "Amazon: HTTPSConnectionPool(host='www.amazon.jobs', port=443): Max retries exceeded with url: /en/search.json?base_query=software+development+engineer&loc_query=India&offset=200&result_limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.amazon.jobs', port=443) at 0x7b766185c5d0>, 'Connection to www.amazon.jobs timed out. (connect timeout=20)'))"
+  ],
   "jobs": [
-    {
-      "id": "nithin::Amazon::10511883",
-      "company": "Amazon",
-      "title": "Software Development Engineer -I, IESP Merchant Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10580014",
-      "company": "Amazon",
-      "title": "Software Development Engineer I",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
-      "first_seen": "2026-10-16",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10580008",
-      "company": "Amazon",
-      "title": "Software Development Engineer I",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
-      "first_seen": "2026-10-16",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10580011",
-      "company": "Amazon",
-      "title": "Software Development Engineer I",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580011/software-development-engineer-i",
-      "first_seen": "2026-10-16",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10580009",
-      "company": "Amazon",
-      "title": "Software Development Engineer I FTC",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
-      "first_seen": "2026-10-16",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10580010",
-      "company": "Amazon",
-      "title": "Software Development Engineer I FTC",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc",
-      "first_seen": "2026-10-16",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Amazon::10432823",
-      "company": "Amazon",
-      "title": "Software Development Engineer I, FinOps FP&A",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
     {
       "id": "nithin::Stripe::8130876",
       "company": "Stripe",
