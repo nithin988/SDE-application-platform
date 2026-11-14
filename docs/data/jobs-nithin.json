@@ -1,10 +1,13 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-11-13T11:44:07.534808+00:00",
-  "total": 7,
+  "generated_at": "2026-11-14T11:05:43.224163+00:00",
+  "total": 6,
   "new_today": 0,
-  "errors": [],
+  "errors": [
+    "Nvidia: Expecting value: line 1 column 1 (char 0)",
+    "Mastercard: Expecting value: line 1 column 1 (char 0)"
+  ],
   "jobs": [
     {
       "id": "nithin::Amazon::10511883",
@@ -58,15 +61,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "nithin::Stripe::8130876",
-      "company": "Stripe",
-      "title": "Software Engineer, New Grad",
-      "location": "Bangalore",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-      "first_seen": "2026-10-28",
       "is_new": false
     }
   ]
