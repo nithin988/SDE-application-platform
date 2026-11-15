@@ -1,13 +1,10 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-11-14T11:05:43.224163+00:00",
+  "generated_at": "2026-11-15T11:40:04.629940+00:00",
   "total": 6,
   "new_today": 0,
-  "errors": [
-    "Nvidia: Expecting value: line 1 column 1 (char 0)",
-    "Mastercard: Expecting value: line 1 column 1 (char 0)"
-  ],
+  "errors": [],
   "jobs": [
     {
       "id": "nithin::Amazon::10511883",

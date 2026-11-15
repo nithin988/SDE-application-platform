@@ -1,32 +1,11 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-14T11:05:43.231070+00:00",
+  "generated_at": "2026-11-15T11:40:04.639596+00:00",
   "total": 120,
-  "new_today": 2,
-  "errors": [
-    "Nvidia: Expecting value: line 1 column 1 (char 0)",
-    "Mastercard: Expecting value: line 1 column 1 (char 0)"
-  ],
+  "new_today": 0,
+  "errors": [],
   "jobs": [
-    {
-      "id": "jaswanth::Amazon::10604005",
-      "company": "Amazon",
-      "title": "Software Development Engineer, CS ARIA",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10604005/software-development-engineer-cs-aria",
-      "first_seen": "2026-11-14",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Amazon::10605092",
-      "company": "Amazon",
-      "title": "Software Development Engineer, SW-Device OS",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10605092/software-development-engineer-sw-device-os",
-      "first_seen": "2026-11-14",
-      "is_new": true
-    },
     {
       "id": "jaswanth::Airbnb::8312713",
       "company": "Airbnb",
@@ -208,12 +187,12 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10488199",
+      "id": "jaswanth::Amazon::10535856",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10488199/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-10-01",
+      "url": "https://www.amazon.jobs/en/jobs/10535856/software-development-engineer-ii-amazon-cross-border-tech",
+      "first_seen": "2026-09-11",
       "is_new": false
     },
     {
@@ -658,6 +637,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10381000",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Buyer Safety Experience",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10375504",
       "company": "Amazon",
       "title": "Software Development Engineer, Buyer Safety Experience",
@@ -667,12 +655,12 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10381000",
+      "id": "jaswanth::Amazon::10604005",
       "company": "Amazon",
-      "title": "Software Development Engineer, Buyer Safety Experience",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
-      "first_seen": "2026-09-10",
+      "title": "Software Development Engineer, CS ARIA",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10604005/software-development-engineer-cs-aria",
+      "first_seen": "2026-11-14",
       "is_new": false
     },
     {
@@ -853,6 +841,15 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10571940/software-development-engineer-returns-and-recommerce",
       "first_seen": "2026-10-16",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10605092",
+      "company": "Amazon",
+      "title": "Software Development Engineer, SW-Device OS",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10605092/software-development-engineer-sw-device-os",
+      "first_seen": "2026-11-14",
       "is_new": false
     },
     {
