@@ -1,11 +1,33 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-15T11:40:04.639596+00:00",
-  "total": 120,
-  "new_today": 0,
-  "errors": [],
+  "generated_at": "2026-11-16T12:17:16.665923+00:00",
+  "total": 121,
+  "new_today": 2,
+  "errors": [
+    "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
+    "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
+    "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
+  ],
   "jobs": [
+    {
+      "id": "jaswanth::Amazon::10605712",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Business India",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10605712/software-development-engineer-amazon-business-india",
+      "first_seen": "2026-11-16",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Twilio::8319442",
+      "company": "Twilio",
+      "title": "Software Engineer (L1)",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319442",
+      "first_seen": "2026-11-16",
+      "is_new": true
+    },
     {
       "id": "jaswanth::Airbnb::8312713",
       "company": "Airbnb",
@@ -598,15 +620,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10554323/software-development-engineer-amazon",
       "first_seen": "2026-09-21",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10546640",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10546640/software-development-engineer-amazon",
-      "first_seen": "2026-09-17",
       "is_new": false
     },
     {
