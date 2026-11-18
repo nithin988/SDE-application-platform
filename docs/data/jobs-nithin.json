@@ -1,15 +1,24 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-11-17T12:38:58.125069+00:00",
-  "total": 3,
-  "new_today": 0,
+  "generated_at": "2026-11-18T12:29:19.839443+00:00",
+  "total": 4,
+  "new_today": 1,
   "errors": [
     "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
     "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
     "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
   ],
   "jobs": [
+    {
+      "id": "nithin::Amazon::10594150",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon International Seller Services",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10594150/software-development-engineer-amazon-international-seller-services",
+      "first_seen": "2026-11-18",
+      "is_new": true
+    },
     {
       "id": "nithin::Amazon::10580008",
       "company": "Amazon",
