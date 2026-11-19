@@ -1,22 +1,30 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-18T12:29:19.845730+00:00",
-  "total": 119,
-  "new_today": 1,
+  "generated_at": "2026-11-19T12:20:11.962645+00:00",
+  "total": 115,
+  "new_today": 2,
   "errors": [
-    "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
     "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
     "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
   ],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10607819",
+      "id": "jaswanth::Amazon::10608163",
       "company": "Amazon",
-      "title": "Software Development Engineer II, Edge Intelli",
+      "title": "Software Development Engineer II, Account Compliance Tech",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10607819/software-development-engineer-ii-edge-intelli",
-      "first_seen": "2026-11-18",
+      "url": "https://www.amazon.jobs/en/jobs/10608163/software-development-engineer-ii-account-compliance-tech",
+      "first_seen": "2026-11-19",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Amazon::10606051",
+      "company": "Amazon",
+      "title": "Software Development Engineer, ASA",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10606051/software-development-engineer-asa",
+      "first_seen": "2026-11-19",
       "is_new": true
     },
     {
@@ -200,15 +208,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10488199",
-      "company": "Amazon",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10488199/software-development-engineer-ii-amazon-cross-border-tech",
-      "first_seen": "2026-10-01",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10594189",
       "company": "Amazon",
       "title": "Software Development Engineer II , Amazon Pay",
@@ -380,21 +379,21 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10607819",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Edge Intelli",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10607819/software-development-engineer-ii-edge-intelli",
+      "first_seen": "2026-11-18",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10411242",
       "company": "Amazon",
       "title": "Software Development Engineer II, FGBS",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10411242/software-development-engineer-ii-fgbs",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10571293",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Grocery In-store",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10571293/software-development-engineer-ii-grocery-in-store",
-      "first_seen": "2026-10-07",
       "is_new": false
     },
     {
@@ -529,6 +528,15 @@
       "title": "Software Development Engineer, AFT External Fulfillment",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10589205/software-development-engineer-aft-external-fulfillment",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10589203",
+      "company": "Amazon",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10589203/software-development-engineer-aft-external-fulfillment",
       "first_seen": "2026-10-27",
       "is_new": false
     },
@@ -710,15 +718,6 @@
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10601876/software-development-engineer-esi",
       "first_seen": "2026-11-13",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10486982",
-      "company": "Amazon",
-      "title": "Software Development Engineer, FBA",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10486982/software-development-engineer-fba",
-      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
@@ -965,33 +964,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Oracle::350628",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "BENGALURU, KARNATAKA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350628",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Oracle::348193",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348193",
-      "first_seen": "2026-10-27",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Oracle::348215",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348215",
-      "first_seen": "2026-10-27",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Oracle::348618",
       "company": "Oracle",
       "title": "Platform Software Engineer 2",
@@ -1025,15 +997,6 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940",
       "first_seen": "2026-11-12",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Rubrik::8282005",
-      "company": "Rubrik",
-      "title": "Software Engineer Product Infra: Core Services",
-      "location": "Bengaluru",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
-      "first_seen": "2026-10-21",
       "is_new": false
     },
     {

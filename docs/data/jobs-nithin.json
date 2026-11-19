@@ -1,30 +1,29 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-11-18T12:29:19.839443+00:00",
-  "total": 4,
-  "new_today": 1,
+  "generated_at": "2026-11-19T12:20:11.954476+00:00",
+  "total": 6,
+  "new_today": 0,
   "errors": [
-    "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
     "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
     "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
   ],
   "jobs": [
-    {
-      "id": "nithin::Amazon::10594150",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon International Seller Services",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10594150/software-development-engineer-amazon-international-seller-services",
-      "first_seen": "2026-11-18",
-      "is_new": true
-    },
     {
       "id": "nithin::Amazon::10580008",
       "company": "Amazon",
       "title": "Software Development Engineer I",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
+      "first_seen": "2026-10-16",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10580013",
+      "company": "Amazon",
+      "title": "Software Development Engineer I",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10580013/software-development-engineer-i",
       "first_seen": "2026-10-16",
       "is_new": false
     },
@@ -44,6 +43,24 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Amazon::10594150",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon International Seller Services",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10594150/software-development-engineer-amazon-international-seller-services",
+      "first_seen": "2026-11-18",
+      "is_new": false
+    },
+    {
+      "id": "nithin::Stripe::8130876",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "location": "Bangalore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+      "first_seen": "2026-10-28",
       "is_new": false
     }
   ]
