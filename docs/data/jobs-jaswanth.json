@@ -1,30 +1,31 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-19T12:20:11.962645+00:00",
-  "total": 115,
+  "generated_at": "2026-11-20T12:20:32.186209+00:00",
+  "total": 118,
   "new_today": 2,
   "errors": [
+    "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
     "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
     "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
   ],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10608163",
+      "id": "jaswanth::Amazon::10609444",
       "company": "Amazon",
-      "title": "Software Development Engineer II, Account Compliance Tech",
+      "title": "Software Development Engineer II, Sales Abuse Prevention ",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10608163/software-development-engineer-ii-account-compliance-tech",
-      "first_seen": "2026-11-19",
+      "url": "https://www.amazon.jobs/en/jobs/10609444/software-development-engineer-ii-sales-abuse-prevention",
+      "first_seen": "2026-11-20",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10606051",
-      "company": "Amazon",
-      "title": "Software Development Engineer, ASA",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10606051/software-development-engineer-asa",
-      "first_seen": "2026-11-19",
+      "id": "jaswanth::Oracle::350972",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "HYDERABAD, TELANGANA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350972",
+      "first_seen": "2026-11-20",
       "is_new": true
     },
     {
@@ -250,6 +251,15 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10592289/software-development-engineer-ii-aft-sortation-aft-mansort",
       "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10608163",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Account Compliance Tech",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10608163/software-development-engineer-ii-account-compliance-tech",
+      "first_seen": "2026-11-19",
       "is_new": false
     },
     {
@@ -568,6 +578,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Amazon::10606051",
+      "company": "Amazon",
+      "title": "Software Development Engineer, ASA",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10606051/software-development-engineer-asa",
+      "first_seen": "2026-11-19",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Amazon::10570699",
       "company": "Amazon",
       "title": "Software Development Engineer, AWS DynamoDB",
@@ -664,15 +683,6 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10604005",
-      "company": "Amazon",
-      "title": "Software Development Engineer, CS ARIA",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10604005/software-development-engineer-cs-aria",
-      "first_seen": "2026-11-14",
       "is_new": false
     },
     {
@@ -946,6 +956,15 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Databricks::8829029002",
+      "company": "Databricks",
+      "title": "Software Engineer, Infrastructure",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+      "first_seen": "2026-09-30",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::GitLab::8861748002",
       "company": "GitLab",
       "title": "People Systems Engineer",
@@ -997,6 +1016,15 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940",
       "first_seen": "2026-11-12",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Rubrik::8282005",
+      "company": "Rubrik",
+      "title": "Software Engineer Product Infra: Core Services",
+      "location": "Bengaluru",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
+      "first_seen": "2026-10-21",
       "is_new": false
     },
     {
