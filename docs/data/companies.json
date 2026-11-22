@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:54:48.493376+00:00",
+  "generated_at": "2026-11-22T12:09:08.818423+00:00",
   "tracked": [
     {
       "name": "Affirm",
@@ -94,10 +94,6 @@
       "url": "https://job-boards.greenhouse.io/rubrik"
     },
     {
-      "name": "Salesforce",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
-    },
-    {
       "name": "Samsara",
       "url": "https://job-boards.greenhouse.io/samsara"
     },
@@ -182,6 +178,10 @@
     {
       "name": "Rippling",
       "url": "https://www.google.com/search?q=Rippling%20careers%20software%20engineer%20India"
+    },
+    {
+      "name": "Salesforce",
+      "url": "https://www.google.com/search?q=Salesforce%20careers%20software%20engineer%20India"
     },
     {
       "name": "ServiceNow",

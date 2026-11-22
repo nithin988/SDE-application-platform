@@ -1,50 +1,15 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-21T11:54:48.511730+00:00",
-  "total": 123,
-  "new_today": 4,
+  "generated_at": "2026-11-22T12:09:08.836808+00:00",
+  "total": 122,
+  "new_today": 0,
   "errors": [
+    "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
     "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
     "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
   ],
   "jobs": [
-    {
-      "id": "jaswanth::Amazon::10610616",
-      "company": "Amazon",
-      "title": "Software Development Engineer",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10610616/software-development-engineer",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Oracle::351031",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "HYDERABAD, TELANGANA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351031",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Oracle::351030",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "HYDERABAD, TELANGANA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351030",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "jaswanth::Oracle::351029",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "HYDERABAD, TELANGANA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351029",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
     {
       "id": "jaswanth::Airbnb::8312713",
       "company": "Airbnb",
@@ -106,6 +71,15 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/3187761/software-development-engineer",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10610616",
+      "company": "Amazon",
+      "title": "Software Development Engineer",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10610616/software-development-engineer",
+      "first_seen": "2026-11-21",
       "is_new": false
     },
     {
@@ -1018,21 +992,39 @@
       "is_new": false
     },
     {
+      "id": "jaswanth::Oracle::351031",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "HYDERABAD, TELANGANA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351031",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Oracle::351030",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "HYDERABAD, TELANGANA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351030",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Oracle::351029",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "HYDERABAD, TELANGANA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351029",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
       "id": "jaswanth::Oracle::348619",
       "company": "Oracle",
       "title": "Platform Software Engineer 2",
       "location": "India",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348619",
       "first_seen": "2026-10-28",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Oracle::350972",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "HYDERABAD, TELANGANA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350972",
-      "first_seen": "2026-11-20",
       "is_new": false
     },
     {
