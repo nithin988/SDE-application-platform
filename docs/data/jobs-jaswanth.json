@@ -1,15 +1,42 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-22T12:09:08.836808+00:00",
-  "total": 122,
-  "new_today": 0,
+  "generated_at": "2026-11-23T13:52:34.863221+00:00",
+  "total": 119,
+  "new_today": 3,
   "errors": [
     "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
     "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
     "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
   ],
   "jobs": [
+    {
+      "id": "jaswanth::Amazon::10610382",
+      "company": "Amazon",
+      "title": "Software Development Engineer , PaySec, StoreSec",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10610382/software-development-engineer-paysec-storesec",
+      "first_seen": "2026-11-23",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Amazon::10611161",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Shiptech - Transportation Technology & Services",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10611161/software-development-engineer-shiptech-transportation-technology-services",
+      "first_seen": "2026-11-23",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Twilio::8065032",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8065032",
+      "first_seen": "2026-11-23",
+      "is_new": true
+    },
     {
       "id": "jaswanth::Airbnb::8312713",
       "company": "Airbnb",
@@ -668,20 +695,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10375504",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Buyer Safety Experience",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10375504/software-development-engineer-buyer-safety-experience",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10381000",
       "company": "Amazon",
       "title": "Software Development Engineer, Buyer Safety Experience",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10375504",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Buyer Safety Experience",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10375504/software-development-engineer-buyer-safety-experience",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -848,24 +875,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10554458",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Seller and AM GenAI Tools",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10554458/software-development-engineer-seller-and-am-genai-tools",
-      "first_seen": "2026-09-22",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10558939",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Seller and AM GenAI Tools",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10558939/software-development-engineer-seller-and-am-genai-tools",
-      "first_seen": "2026-10-01",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10586124",
       "company": "Amazon",
       "title": "Software Development Engineer, Ship With Amazon",
@@ -992,33 +1001,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Oracle::351031",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "HYDERABAD, TELANGANA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351031",
-      "first_seen": "2026-11-21",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Oracle::351030",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "HYDERABAD, TELANGANA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351030",
-      "first_seen": "2026-11-21",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Oracle::351029",
-      "company": "Oracle",
-      "title": "Platform Software Engineer 2",
-      "location": "HYDERABAD, TELANGANA, India",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351029",
-      "first_seen": "2026-11-21",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Oracle::348619",
       "company": "Oracle",
       "title": "Platform Software Engineer 2",
@@ -1052,15 +1034,6 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940",
       "first_seen": "2026-11-12",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Rubrik::8282005",
-      "company": "Rubrik",
-      "title": "Software Engineer Product Infra: Core Services",
-      "location": "Bengaluru",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
-      "first_seen": "2026-10-21",
       "is_new": false
     },
     {
