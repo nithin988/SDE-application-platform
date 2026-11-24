@@ -1,10 +1,11 @@
 {
   "profile": "nithin",
   "label": "Nithin \u2014 SDE 1 (entry level, ~1 YOE)",
-  "generated_at": "2026-11-23T13:52:34.854081+00:00",
+  "generated_at": "2026-11-24T14:26:26.069426+00:00",
   "total": 6,
   "new_today": 0,
   "errors": [
+    "Palantir: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)",
     "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
     "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
     "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"

@@ -1,40 +1,41 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-23T13:52:34.863221+00:00",
-  "total": 119,
+  "generated_at": "2026-11-24T14:26:26.075870+00:00",
+  "total": 121,
   "new_today": 3,
   "errors": [
+    "Palantir: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)",
     "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
     "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
     "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
   ],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10610382",
+      "id": "jaswanth::Amazon::10609449",
       "company": "Amazon",
-      "title": "Software Development Engineer , PaySec, StoreSec",
+      "title": "Software Development Engineer II, Featured Merchant Algorithm",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10610382/software-development-engineer-paysec-storesec",
-      "first_seen": "2026-11-23",
+      "url": "https://www.amazon.jobs/en/jobs/10609449/software-development-engineer-ii-featured-merchant-algorithm",
+      "first_seen": "2026-11-24",
       "is_new": true
     },
     {
-      "id": "jaswanth::Amazon::10611161",
+      "id": "jaswanth::Amazon::10611480",
       "company": "Amazon",
-      "title": "Software Development Engineer , Shiptech - Transportation Technology & Services",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10611161/software-development-engineer-shiptech-transportation-technology-services",
-      "first_seen": "2026-11-23",
+      "title": "Software Development Engineer II, Grocery In-store",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10611480/software-development-engineer-ii-grocery-in-store",
+      "first_seen": "2026-11-24",
       "is_new": true
     },
     {
-      "id": "jaswanth::Twilio::8065032",
-      "company": "Twilio",
-      "title": "Software Engineer (L3)",
-      "location": "Remote - India",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8065032",
-      "first_seen": "2026-11-23",
+      "id": "jaswanth::Amazon::10611676",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, ICON",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10611676/software-development-engineer-ii-icon",
+      "first_seen": "2026-11-24",
       "is_new": true
     },
     {
@@ -134,6 +135,24 @@
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10595059/software-development-engineer-aws-ads-performance-benchmarks",
       "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10610382",
+      "company": "Amazon",
+      "title": "Software Development Engineer , PaySec, StoreSec",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10610382/software-development-engineer-paysec-storesec",
+      "first_seen": "2026-11-23",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10611161",
+      "company": "Amazon",
+      "title": "Software Development Engineer , Shiptech - Transportation Technology & Services",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10611161/software-development-engineer-shiptech-transportation-technology-services",
+      "first_seen": "2026-11-23",
       "is_new": false
     },
     {
@@ -317,20 +336,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10403403",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Amazon",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10403403/software-development-engineer-ii-amazon",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::3172711",
       "company": "Amazon",
       "title": "Software Development Engineer II, Amazon",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/3172711/software-development-engineer-ii-amazon",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10403403",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Amazon",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10403403/software-development-engineer-ii-amazon",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -695,20 +714,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10381000",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Buyer Safety Experience",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10375504",
       "company": "Amazon",
       "title": "Software Development Engineer, Buyer Safety Experience",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10375504/software-development-engineer-buyer-safety-experience",
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10381000",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Buyer Safety Experience",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
       "first_seen": "2026-09-10",
       "is_new": false
     },
@@ -731,20 +750,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10593781",
-      "company": "Amazon",
-      "title": "Software Development Engineer, ESI",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10593781/software-development-engineer-esi",
-      "first_seen": "2026-11-13",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10601866",
       "company": "Amazon",
       "title": "Software Development Engineer, ESI",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10601866/software-development-engineer-esi",
+      "first_seen": "2026-11-13",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10593781",
+      "company": "Amazon",
+      "title": "Software Development Engineer, ESI",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10593781/software-development-engineer-esi",
       "first_seen": "2026-11-13",
       "is_new": false
     },
@@ -974,15 +993,6 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Databricks::8829029002",
-      "company": "Databricks",
-      "title": "Software Engineer, Infrastructure",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
-      "first_seen": "2026-09-30",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::GitLab::8861748002",
       "company": "GitLab",
       "title": "People Systems Engineer",
@@ -998,6 +1008,15 @@
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8916232002",
       "first_seen": "2026-10-28",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Oracle::351029",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "HYDERABAD, TELANGANA, India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351029",
+      "first_seen": "2026-11-21",
       "is_new": false
     },
     {
@@ -1073,12 +1092,12 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Zscaler::5261571007",
-      "company": "Zscaler",
-      "title": "Software Development Engineer - Java + Distributed Systems",
-      "location": "Hyderabad, IND",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261571007",
-      "first_seen": "2026-10-15",
+      "id": "jaswanth::Twilio::8065032",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8065032",
+      "first_seen": "2026-11-23",
       "is_new": false
     }
   ]
