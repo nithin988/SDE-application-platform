@@ -1,20 +1,40 @@
 {
   "profile": "jaswanth",
   "label": "Jaswanth \u2014 SDE 2 / Software Development Engineer II",
-  "generated_at": "2026-11-26T13:22:12.517651+00:00",
-  "total": 122,
-  "new_today": 1,
+  "generated_at": "2026-11-27T13:19:35.372891+00:00",
+  "total": 124,
+  "new_today": 3,
   "errors": [
-    "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    "Salesforce: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
+    "Nvidia: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
+    "Mastercard: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
   ],
   "jobs": [
     {
-      "id": "jaswanth::Amazon::10597580",
+      "id": "jaswanth::Amazon::10598473",
       "company": "Amazon",
-      "title": "Software Development Engineer - II, Verification Services-Fixed",
+      "title": "Software Development Engineer II, Cross Border Seller Programs",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10597580/software-development-engineer-ii-verification-services-fixed",
-      "first_seen": "2026-11-26",
+      "url": "https://www.amazon.jobs/en/jobs/10598473/software-development-engineer-ii-cross-border-seller-programs",
+      "first_seen": "2026-11-27",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Amazon::10607560",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Prime Video Sports",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10607560/software-development-engineer-ii-prime-video-sports",
+      "first_seen": "2026-11-27",
+      "is_new": true
+    },
+    {
+      "id": "jaswanth::Amazon::10615646",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Finance Technology",
+      "location": "Hyderabad, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10615646/software-development-engineer-finance-technology",
+      "first_seen": "2026-11-27",
       "is_new": true
     },
     {
@@ -171,12 +191,12 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10492686",
+      "id": "jaswanth::Amazon::10597580",
       "company": "Amazon",
       "title": "Software Development Engineer - II, Verification Services-Fixed",
       "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10492686/software-development-engineer-ii-verification-services-fixed",
-      "first_seen": "2026-09-10",
+      "url": "https://www.amazon.jobs/en/jobs/10597580/software-development-engineer-ii-verification-services-fixed",
+      "first_seen": "2026-11-26",
       "is_new": false
     },
     {
@@ -306,20 +326,20 @@
       "is_new": false
     },
     {
-      "id": "jaswanth::Amazon::10596464",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Alexa Connectivity Devices",
-      "location": "Bengaluru, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10596464/software-development-engineer-ii-alexa-connectivity-devices",
-      "first_seen": "2026-11-05",
-      "is_new": false
-    },
-    {
       "id": "jaswanth::Amazon::10596460",
       "company": "Amazon",
       "title": "Software Development Engineer II, Alexa Connectivity Devices",
       "location": "Bengaluru, IND",
       "url": "https://www.amazon.jobs/en/jobs/10596460/software-development-engineer-ii-alexa-connectivity-devices",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Amazon::10596464",
+      "company": "Amazon",
+      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "location": "Bengaluru, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10596464/software-development-engineer-ii-alexa-connectivity-devices",
       "first_seen": "2026-11-05",
       "is_new": false
     },
@@ -554,15 +574,6 @@
       "title": "Software Development Engineer II, Timehub Pay Extract",
       "location": "Hyderabad, IND",
       "url": "https://www.amazon.jobs/en/jobs/10562899/software-development-engineer-ii-timehub-pay-extract",
-      "first_seen": "2026-09-29",
-      "is_new": false
-    },
-    {
-      "id": "jaswanth::Amazon::10562604",
-      "company": "Amazon",
-      "title": "Software Development Engineer II, Unified Auth SDK",
-      "location": "Hyderabad, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10562604/software-development-engineer-ii-unified-auth-sdk",
       "first_seen": "2026-09-29",
       "is_new": false
     },
@@ -1032,6 +1043,15 @@
       "location": "HYDERABAD, TELANGANA, India",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351029",
       "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "jaswanth::Oracle::348217",
+      "company": "Oracle",
+      "title": "Platform Software Engineer 2",
+      "location": "India",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348217",
+      "first_seen": "2026-10-27",
       "is_new": false
     },
     {
