@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:19:35.359485+00:00",
+  "generated_at": "2026-11-28T12:35:09.531751+00:00",
   "tracked": [
     {
       "name": "Affirm",
@@ -66,6 +66,10 @@
       "url": "https://job-boards.greenhouse.io/gusto"
     },
     {
+      "name": "Mastercard",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+    },
+    {
       "name": "MongoDB",
       "url": "https://job-boards.greenhouse.io/mongodb"
     },
@@ -92,6 +96,10 @@
     {
       "name": "Rubrik",
       "url": "https://job-boards.greenhouse.io/rubrik"
+    },
+    {
+      "name": "Salesforce",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
     },
     {
       "name": "Samsara",
@@ -148,10 +156,6 @@
       "url": "https://jobs.intuit.com/search-jobs/India"
     },
     {
-      "name": "Mastercard",
-      "url": "https://www.google.com/search?q=Mastercard%20careers%20software%20engineer%20India"
-    },
-    {
       "name": "Microsoft",
       "url": "https://jobs.careers.microsoft.com/global/en/search?q=Software%20Engineer&lc=India"
     },
@@ -178,10 +182,6 @@
     {
       "name": "Rippling",
       "url": "https://www.google.com/search?q=Rippling%20careers%20software%20engineer%20India"
-    },
-    {
-      "name": "Salesforce",
-      "url": "https://www.google.com/search?q=Salesforce%20careers%20software%20engineer%20India"
     },
     {
       "name": "ServiceNow",
